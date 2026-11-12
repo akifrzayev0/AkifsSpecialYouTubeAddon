@@ -1,0 +1,41 @@
+{
+  "extName": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "extShortName": {
+    "message": "Akif YT Addon"
+  },
+  "extDescription": {
+    "message": "YouTube-dan 8K/HDR-ə qədər video, MP3/M4A/Opus/FLAC/WAV audio, subtitr və miniatür endirin. Ekran şəkli və pleyer alətləri də var."
+  },
+  "actionTitle": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "cmdScreenshot": {
+    "message": "Ekran şəkli çəkin"
+  },
+  "cmdDownload": {
+    "message": "Endirmə panelini açın"
+  },
+  "cmdLoop": {
+    "message": "Təkrarı aktiv və ya deaktiv edin"
+  },
+  "cmdCinema": {
+    "message": "Kino rejimini aktiv və ya deaktiv edin"
+  },
+  "cmdPip": {
+    "message": "Şəkildə şəkil rejimini aktiv və ya deaktiv edin"
+  },
+  "cmdComments": {
+    "message": "Şərhləri göstərin və ya gizlədin"
+  },
+  "cmdSpeedUp": {
+    "message": "Oxutma sürətini artırın"
+  },
+  "cmdSpeedDown": {
+    "message": "Oxutma sürətini azaldın"
+  },
+  "cmdSpeedReset": {
+    "message": "Oxutma sürətini sıfırlayın"
+  }
+}

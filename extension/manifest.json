@@ -1,0 +1,145 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "short_name": "__MSG_extShortName__",
+  "version": "1.0.0",
+  "description": "__MSG_extDescription__",
+  "default_locale": "en",
+  "minimum_chrome_version": "120",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvyMx37hQfM9Gjuj156ScYtucnKuJgr4Jqie79sZMBKau2ztV/gM0nYzk+LGKjPWtlrgL1/IaUxtm2twCROArWQbBDiDIkp1xXXuVKe/oBiGhOm5/Ke046NZSmx0X2/i7hxP26xl4dTYKVyzSiH6KYAhRUeXqmLSoFjgeNQwObmlHnuptNRIV0q8VPZz5iQTIC6JSTVamV5edEDMbeNGlDwFFwMwXnwp3Pq/A2urtSy0xUh2LpOevLY72RYCCaFhkHh6NsHcc2/pa1e4O3b4mQkcfuMfdNElf7/n97p69CsEUtGBUwGJVme+JbYR55aIxJuKbOju73XAmh5Nf0MrQgQIDAQAB",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "__MSG_actionTitle__",
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+    }
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": true
+  },
+  "background": {
+    "service_worker": "background/service-worker.js"
+  },
+  "permissions": [
+    "storage",
+    "downloads",
+    "nativeMessaging",
+    "notifications",
+    "contextMenus",
+    "cookies",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "*://*.youtube.com/*",
+    "*://*.ytimg.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "content/main-world.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "js": [
+        "shared/constants.js",
+        "shared/utils.js",
+        "shared/i18n.js",
+        "shared/i18n/en.js",
+        "shared/i18n/az.js",
+        "shared/i18n/tr.js",
+        "shared/i18n/ru.js",
+        "shared/i18n/fr.js",
+        "shared/i18n/de.js",
+        "shared/i18n/es.js",
+        "shared/settings.js",
+        "shared/dom.js",
+        "shared/ui-styles.js",
+        "shared/ui.js",
+        "shared/client.js",
+        "shared/subtitles.js",
+        "content/core.js",
+        "content/video-info.js",
+        "content/toolbar.js",
+        "content/panels/video.js",
+        "content/panels/audio.js",
+        "content/panels/thumbnail.js",
+        "content/panels/subtitles.js",
+        "content/panels/screenshot.js",
+        "content/tools/loop.js",
+        "content/tools/speed.js",
+        "content/tools/boost.js",
+        "content/tools/adjust.js",
+        "content/tools/pip.js",
+        "content/tools/cinema.js",
+        "content/tools/cleanup.js",
+        "content/tools/quality.js",
+        "content/shorts.js",
+        "content/boot.js"
+      ],
+      "css": [
+        "content/page.css"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "commands": {
+    "take-screenshot": {
+      "suggested_key": {
+        "default": "Alt+Shift+S"
+      },
+      "description": "__MSG_cmdScreenshot__"
+    },
+    "open-download": {
+      "suggested_key": {
+        "default": "Alt+Shift+D"
+      },
+      "description": "__MSG_cmdDownload__"
+    },
+    "toggle-loop": {
+      "suggested_key": {
+        "default": "Alt+Shift+L"
+      },
+      "description": "__MSG_cmdLoop__"
+    },
+    "toggle-cinema": {
+      "suggested_key": {
+        "default": "Alt+Shift+M"
+      },
+      "description": "__MSG_cmdCinema__"
+    },
+    "toggle-pip": {
+      "description": "__MSG_cmdPip__"
+    },
+    "toggle-comments": {
+      "description": "__MSG_cmdComments__"
+    },
+    "speed-up": {
+      "description": "__MSG_cmdSpeedUp__"
+    },
+    "speed-down": {
+      "description": "__MSG_cmdSpeedDown__"
+    },
+    "speed-reset": {
+      "description": "__MSG_cmdSpeedReset__"
+    }
+  }
+}

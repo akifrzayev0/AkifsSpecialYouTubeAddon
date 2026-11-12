@@ -1,0 +1,24 @@
+# Dependencies (recreated with: npm install --prefix tools/e2e)
+tools/e2e/node_modules/
+
+# Test / build output
+tools/e2e/_downloads/
+companion/tests/_downloads/
+**/__pycache__/
+*.pyc
+dist/
+*.zip
+*.crx
+
+# Secrets — never publish the extension signing key
+*.pem
+ext-private-key*
+ext-key.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+{
+  "name": "akif-youtube-addon-e2e",
+  "private": true,
+  "type": "module",
+  "description": "End-to-end tests: loads the unpacked extension into the installed Chrome (headless) and drives YouTube.",
+  "dependencies": {
+    "puppeteer-core": "25.16.0"
+  }
+}

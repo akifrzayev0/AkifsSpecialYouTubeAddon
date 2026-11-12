@@ -1,0 +1,174 @@
+/*
+ * Akif's Special YouTube Addon — page-level CSS (owner: TOOLS).
+ *
+ * Injected at document_start into every www.youtube.com page (manifest content_scripts.css).
+ * Every rule that touches YouTube's own DOM is gated by an `html.ayt-*` class toggled with
+ * AYT.pageClass.set(name, on), so nothing here changes YouTube unless a feature is switched on.
+ * The remaining rules only style our own light-DOM hosts (#ayt-*, .ayt-*).
+ * Selectors verified on real pages (Nov 2026, Chrome 157) — see docs/DEVELOPER-SPEC.md §10.
+ *
+ * Other modules may append clearly delimited sections at the end of this file.
+ */
+
+/* =====================================================================
+   Clean up — comments (setting hideComments → html.ayt-hide-comments)
+   ===================================================================== */
+html.ayt-hide-comments ytd-watch-flexy ytd-comments#comments,
+html.ayt-hide-comments ytd-watch-flexy ytd-watch-metadata #comment-teaser,
+html.ayt-hide-comments ytd-watch-flexy ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-comments-section"] {
+  display: none !important;
+}
+
+/* "Comments are hidden · Show" pill (content lives in its own shadow root). */
+#ayt-comments-pill {
+  display: none;
+}
+html.ayt-hide-comments ytd-watch-flexy #ayt-comments-pill {
+  display: block;
+  margin: 16px 0 24px;
+}
+
+/* =====================================================================
+   Clean up — related videos (hideRelated). #secondary itself stays: it also
+   holds the playlist panel and the live chat.
+   ===================================================================== */
+html.ayt-hide-related ytd-watch-flexy #related {
+  display: none !important;
+}
+
+/* =====================================================================
+   Clean up — Shorts everywhere (hideShorts)
+   ===================================================================== */
+html.ayt-hide-shorts ytd-rich-section-renderer:has(ytd-rich-shelf-renderer[is-shorts]),
+html.ayt-hide-shorts ytd-rich-shelf-renderer[is-shorts],
+html.ayt-hide-shorts grid-shelf-view-model:has(ytm-shorts-lockup-view-model-v2, ytm-shorts-lockup-view-model),
+html.ayt-hide-shorts ytd-reel-shelf-renderer,
+html.ayt-hide-shorts ytd-rich-item-renderer:has(ytm-shorts-lockup-view-model-v2),
+html.ayt-hide-shorts ytd-rich-item-renderer:has(ytm-shorts-lockup-view-model),
+html.ayt-hide-shorts ytd-video-renderer:has(a[href^="/shorts/"]),
+html.ayt-hide-shorts ytd-mini-guide-entry-renderer:has(a[href="/shorts/"]),
+html.ayt-hide-shorts ytd-guide-entry-renderer:has(a[href="/shorts/"]),
+html.ayt-hide-shorts ytd-guide-entry-renderer[data-ayt-shorts],
+html.ayt-hide-shorts ytd-mini-guide-entry-renderer[data-ayt-shorts] {
+  display: none !important;
+}
+
+/* =====================================================================
+   Clean up — end screen & cards (hideEndscreen)
+   ===================================================================== */
+html.ayt-hide-endscreen .html5-video-player .ytp-ce-element,
+html.ayt-hide-endscreen .html5-video-player .ytp-ce-shadow,
+html.ayt-hide-endscreen .html5-video-player .ytp-cards-teaser,
+html.ayt-hide-endscreen .html5-video-player .ytp-cards-button,
+html.ayt-hide-endscreen .html5-video-player .html5-endscreen,
+html.ayt-hide-endscreen .html5-video-player .ytp-endscreen-content,
+html.ayt-hide-endscreen .html5-video-player .ytp-fullscreen-grid,
+html.ayt-hide-endscreen .html5-video-player .ytp-autonav-endscreen-upnext-container {
+  display: none !important;
+}
+
+/* =====================================================================
+   Clean up — live chat (hideLiveChat)
+   ===================================================================== */
+html.ayt-hide-livechat ytd-watch-flexy #chat-container,
+html.ayt-hide-livechat ytd-watch-flexy ytd-live-chat-frame#chat {
+  display: none !important;
+}
+
+/* =====================================================================
+   Cinema mode (html.ayt-cinema): a fixed overlay at z-index 2030 above the whole page
+   (masthead = 2020); the player and our toolbar are raised to 2031. Verified: no stacking
+   context between #player-container-outer and <body>; but #below (which holds the toolbar)
+   has `view-transition-name: metadata`, which makes it a stacking context, so it is dropped
+   while cinema mode is on (only effect: no named view transition for the metadata block).
+   ===================================================================== */
+html.ayt-cinema ytd-watch-flexy #below {
+  view-transition-name: none !important;
+}
+#ayt-cinema-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2030;
+  background: #000;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.35s ease, visibility 0s linear 0.35s;
+}
+html.ayt-cinema #ayt-cinema-overlay {
+  opacity: var(--ayt-cinema-opacity, 0.9);
+  visibility: visible;
+  pointer-events: auto;
+  transition: opacity 0.35s ease;
+}
+html.ayt-cinema ytd-watch-flexy #player-container-outer,
+html.ayt-cinema ytd-watch-flexy #full-bleed-container,
+html.ayt-cinema #ayt-toolbar-host {
+  position: relative !important;
+  z-index: 2031 !important;
+}
+
+/* =====================================================================
+   Video adjustments (html.ayt-video-adjust). content/tools/adjust.js sets the variables
+   inline on the active <video> only (not on :root: a changed root variable makes the browser
+   recalculate the style of YouTube's whole page on every slider step).
+   ===================================================================== */
+html.ayt-video-adjust #movie_player video.html5-main-video,
+html.ayt-video-adjust #shorts-player video.html5-main-video {
+  filter: var(--ayt-va-filter, none) !important;
+  transform: var(--ayt-va-transform, none) !important;
+  transform-origin: 50% 50% !important;
+  transition: filter 0.2s ease, transform 0.25s ease;
+}
+/* Reduced motion: no animated rotate / flip / zoom (the colour fade is not motion). */
+@media (prefers-reduced-motion: reduce) {
+  html.ayt-video-adjust #movie_player video.html5-main-video,
+  html.ayt-video-adjust #shorts-player video.html5-main-video {
+    transition: filter 0.2s ease;
+  }
+}
+
+/* =====================================================================
+   A-B loop range on YouTube's progress bar (content/tools/loop.js).
+   Bar children z-index: chapters 32, clip excludes 37, timed markers 40, scrubber 43.
+   ===================================================================== */
+.ytp-progress-bar > .ayt-loop-range {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 38;
+  min-width: 2px;
+  pointer-events: none;
+  background: rgba(255, 196, 0, 0.55);
+  border-radius: 1px;
+}
+.ytp-progress-bar > .ayt-loop-range::before,
+.ytp-progress-bar > .ayt-loop-range::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 3px;
+  border-radius: 2px;
+  background: #fff;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35), 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+.ytp-progress-bar > .ayt-loop-range::before {
+  left: -1.5px;
+}
+.ytp-progress-bar > .ayt-loop-range::after {
+  right: -1.5px;
+}
+
+/* =====================================================================
+   Shorts download button host (content/shorts.js). Same box as YouTube's own action
+   items (48 x 78 incl. label); the button itself lives in a shadow root.
+   ===================================================================== */
+.ayt-shorts-action {
+  display: block;
+  flex: none;
+  width: 48px;
+  min-height: 78px;
+  margin: 0;
+  padding: 0;
+}

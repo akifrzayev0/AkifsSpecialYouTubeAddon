@@ -1,0 +1,41 @@
+{
+  "extName": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "extShortName": {
+    "message": "Akif YT Addon"
+  },
+  "extDescription": {
+    "message": "Téléchargez des vidéos YouTube jusqu’en 8K/HDR, audio MP3/M4A/Opus/FLAC/WAV, sous-titres, miniatures et captures. Outils de lecture."
+  },
+  "actionTitle": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "cmdScreenshot": {
+    "message": "Faire une capture d’écran"
+  },
+  "cmdDownload": {
+    "message": "Ouvrir le panneau de téléchargement"
+  },
+  "cmdLoop": {
+    "message": "Activer ou désactiver la lecture en boucle"
+  },
+  "cmdCinema": {
+    "message": "Activer ou désactiver le mode salle obscure"
+  },
+  "cmdPip": {
+    "message": "Activer ou désactiver le mode Picture-in-picture"
+  },
+  "cmdComments": {
+    "message": "Afficher ou masquer les commentaires"
+  },
+  "cmdSpeedUp": {
+    "message": "Accélérer la lecture"
+  },
+  "cmdSpeedDown": {
+    "message": "Ralentir la lecture"
+  },
+  "cmdSpeedReset": {
+    "message": "Réinitialiser la vitesse de lecture"
+  }
+}

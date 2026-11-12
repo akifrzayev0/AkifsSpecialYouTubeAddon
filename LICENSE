@@ -1,0 +1,54 @@
+Copyright (c) 2026 Akif (https://github.com/akifrzayev0). All rights reserved.
+
+Akif's Special YouTube Addon
+============================
+
+This is source-available software, NOT open source. The source code is published
+so that people can read, trust, and install the extension. It is not placed in the
+public domain, and no rights are granted beyond those stated below.
+
+PERMITTED
+---------
+You may:
+  * Download this software and use it, unmodified, for your own personal,
+    non-commercial purposes.
+  * Read and study the source code.
+
+NOT PERMITTED (without prior written permission from the copyright holder)
+-------------------------------------------------------------------------
+You may NOT:
+  * Copy, republish, redistribute, mirror, sell, sublicense, or otherwise make
+    this software or any part of its source code available to others, whether
+    modified or unmodified, and whether for payment or free of charge.
+  * Modify, adapt, translate, or create derivative works from it, or publish any
+    such derivative work.
+  * Present this software, or any part of it, as your own work, or remove or
+    alter this notice or the author's name.
+  * Use it, or any part of it, for any commercial purpose.
+
+THIRD-PARTY SOFTWARE
+--------------------
+This project is not affiliated with, endorsed by, or sponsored by YouTube or
+Google. "YouTube" is a trademark of Google LLC.
+
+The extension works together with separate third-party programs (for example
+yt-dlp, FFmpeg, and Deno). This repository does not include or redistribute those
+programs; the companion app downloads them, when needed, from their own official
+releases. Each remains the property of its authors and is governed by its own
+license. This license applies only to the code in this repository.
+
+NO WARRANTY
+-----------
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+You are responsible for how you use this software, including complying with the
+terms of service of any website and with the copyright of any content you
+download. Download only content you have the right to download.
+
+For permission requests beyond the terms above, contact the copyright holder
+through the GitHub profile linked at the top of this file.

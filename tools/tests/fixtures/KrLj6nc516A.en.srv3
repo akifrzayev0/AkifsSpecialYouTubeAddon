@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" b="1" fc="#00BCE7" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="4" b="1" fc="#00BCE7" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="5" b="1" fc="#1775EA" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="6" b="1" fc="#1775EA" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="7" b="1" fc="#FF5E5B" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="8" b="1" fc="#FF5E5B" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="9" b="1" fc="#1CE8B5" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="10" b="1" fc="#1CE8B5" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="11" b="1" fc="#FFD93D" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="12" b="1" fc="#FFD93D" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="13" b="1" fc="#FFFFFF" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="14" b="1" fc="#FFFFFF" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="15" b="1" fc="#E64783" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="16" b="1" fc="#E64783" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="17" b="1" fc="#F913BF" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="18" b="1" fc="#F913BF" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="19" b="1" fc="#254FF9" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="20" b="1" fc="#254FF9" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="21" b="1" fc="#CCF913" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="22" b="1" fc="#CCF913" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="23" b="1" fc="#FF9500" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="24" b="1" fc="#FF9500" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="25" b="1" fc="#C94EFF" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="26" b="1" fc="#C94EFF" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="27" b="1" fc="#F92413" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="28" b="1" fc="#F92413" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="29" b="1" fc="#13F4F9" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="30" b="1" fc="#13F4F9" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="1" ap="7" ah="50" av="98"/>
+</head>
+<body>
+<p t="33" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Behind me are ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the most expensive cars in the world.​ ​</s><s p="1">​</s></p>
+<p t="33" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Behind me are ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the most expensive cars in the world.​ ​</s><s p="1">​</s></p>
+<p t="3133" d="634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="3133" d="634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="3767" d="4300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We got our hands on over $250 ​ ​</s><s p="1">​
+​</s><s p="3">​ ​million worth of cars,​ ​</s><s p="1">​</s></p>
+<p t="3767" d="4300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We got our hands on over $250 ​ ​</s><s p="1">​
+​</s><s p="4">​ ​million worth of cars,​ ​</s><s p="1">​</s></p>
+<p t="8067" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​one of them ​ ​</s><s p="1">​
+​</s><s p="3">​ ​even costing $100 million.​ ​</s><s p="1">​</s></p>
+<p t="8067" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​one of them ​ ​</s><s p="1">​
+​</s><s p="4">​ ​even costing $100 million.​ ​</s><s p="1">​</s></p>
+<p t="11434" d="4167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And we&#39;re going to be exploding ​ ​</s><s p="1">​
+​</s><s p="3">​ ​sailing, driving​ ​</s><s p="1">​</s></p>
+<p t="11434" d="4167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And we&#39;re going to be exploding ​ ​</s><s p="1">​
+​</s><s p="4">​ ​sailing, driving​ ​</s><s p="1">​</s></p>
+<p t="16400" d="4167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​and even flying all of these cars ​ ​</s><s p="1">​
+​</s><s p="3">​ ​to show you why they&#39;re so expensive.​ ​</s><s p="1">​</s></p>
+<p t="16400" d="4167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​and even flying all of these cars ​ ​</s><s p="1">​
+​</s><s p="4">​ ​to show you why they&#39;re so expensive.​ ​</s><s p="1">​</s></p>
+<p t="20601" d="3833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Starting with this $1 car, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​literally a rust bucket.​ ​</s><s p="1">​</s></p>
+<p t="20601" d="3833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Starting with this $1 car, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​literally a rust bucket.​ ​</s><s p="1">​</s></p>
+<p t="24467" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Why are you selling this car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​for a dollar?​ ​</s><s p="1">​</s></p>
+<p t="24467" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Why are you selling this car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​for a dollar?​ ​</s><s p="1">​</s></p>
+<p t="26167" d="2801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="5">​ ​Well, ​ ​</s><s p="1">​
+​</s><s p="5">​ ​you see, it&#39;s pretty much worthless.​ ​</s><s p="1">​</s></p>
+<p t="26167" d="2801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="6">​ ​Well, ​ ​</s><s p="1">​
+​</s><s p="6">​ ​you see, it&#39;s pretty much worthless.​ ​</s><s p="1">​</s></p>
+<p t="28968" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="5">​ ​And I can&#39;t put any time ​ ​</s><s p="1">​
+​</s><s p="5">​ ​or money in this thing.​ ​</s><s p="1">​</s></p>
+<p t="28968" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="6">​ ​And I can&#39;t put any time ​ ​</s><s p="1">​
+​</s><s p="6">​ ​or money in this thing.​ ​</s><s p="1">​</s></p>
+<p t="30968" d="2866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​If you grab this dollar, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the deal is final.​ ​</s><s p="1">​</s></p>
+<p t="30968" d="2866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​If you grab this dollar, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the deal is final.​ ​</s><s p="1">​</s></p>
+<p t="33834" d="2900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Now, obviously, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​this is a piece of garbage,​ ​</s><s p="1">​</s></p>
+<p t="33834" d="2900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Now, obviously, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​this is a piece of garbage,​ ​</s><s p="1">​</s></p>
+<p t="36734" d="3200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​but when you spend 20 K on repairs, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​it actually runs.​ ​</s><s p="1">​</s></p>
+<p t="36734" d="3200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​but when you spend 20 K on repairs, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​it actually runs.​ ​</s><s p="1">​</s></p>
+<p t="40200" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="7">​ ​All right, let&#39;s get this ​ ​</s><s p="1">​
+​</s><s p="7">​ ​bad boy started.​ ​</s><s p="1">​</s></p>
+<p t="40200" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="8">​ ​All right, let&#39;s get this ​ ​</s><s p="1">​
+​</s><s p="8">​ ​bad boy started.​ ​</s><s p="1">​</s></p>
+<p t="43400" d="2534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​I do not think it would start​ ​</s><s p="1">​</s></p>
+<p t="43400" d="2534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​I do not think it would start​ ​</s><s p="1">​</s></p>
+<p t="45968" d="1432" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​How is this thing driving?​ ​</s><s p="1">​</s></p>
+<p t="45968" d="1432" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​How is this thing driving?​ ​</s><s p="1">​</s></p>
+<p t="47434" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It smells like smoke!​ ​</s><s p="1">​</s></p>
+<p t="47434" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It smells like smoke!​ ​</s><s p="1">​</s></p>
+<p t="48868" d="1165" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​this is crazy.​ ​</s><s p="1">​</s></p>
+<p t="48868" d="1165" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​this is crazy.​ ​</s><s p="1">​</s></p>
+<p t="50033" d="835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="50033" d="835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="51367" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="51367" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="52834" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-One dollar car! ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="52834" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-One dollar car! ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="54634" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="54634" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​One dollar car!​ ​</s><s p="1">​</s></p>
+<p t="61400" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right, well, that was the $1 car.​ ​</s><s p="1">​</s></p>
+<p t="61400" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right, well, that was the $1 car.​ ​</s><s p="1">​</s></p>
+<p t="63667" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Glad I wasn&#39;t in that.​ ​</s><s p="1">​</s></p>
+<p t="63667" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Glad I wasn&#39;t in that.​ ​</s><s p="1">​</s></p>
+<p t="64667" d="3366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Bringing the $100,000 car, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​which drives itself.​ ​</s><s p="1">​</s></p>
+<p t="64667" d="3366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Bringing the $100,000 car, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​which drives itself.​ ​</s><s p="1">​</s></p>
+<p t="68067" d="534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="68067" d="534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="68601" d="2566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​No one is currently in this car, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​and it is moving.​ ​</s><s p="1">​</s></p>
+<p t="68601" d="2566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​No one is currently in this car, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​and it is moving.​ ​</s><s p="1">​</s></p>
+<p t="71200" d="1634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s see what 100 grand gets you.​ ​</s><s p="1">​</s></p>
+<p t="71200" d="1634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s see what 100 grand gets you.​ ​</s><s p="1">​</s></p>
+<p t="72834" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​There&#39;s a lot of room in this car.​ ​</s><s p="1">​</s></p>
+<p t="72834" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​There&#39;s a lot of room in this car.​ ​</s><s p="1">​</s></p>
+<p t="74400" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This is one of the few cars ​ ​</s><s p="1">​
+​</s><s p="3">​ ​that can actually fit all my kids.​ ​</s><s p="1">​</s></p>
+<p t="74400" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This is one of the few cars ​ ​</s><s p="1">​
+​</s><s p="4">​ ​that can actually fit all my kids.​ ​</s><s p="1">​</s></p>
+<p t="77434" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​-Do you have kids? ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-Yeah, all of them.​ ​</s><s p="1">​</s></p>
+<p t="77434" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​-Do you have kids? ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-Yeah, all of them.​ ​</s><s p="1">​</s></p>
+<p t="79067" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s take it for a little spin.​ ​</s><s p="1">​</s></p>
+<p t="79067" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s take it for a little spin.​ ​</s><s p="1">​</s></p>
+<p t="80367" d="3033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The real reason you&#39;re buying a Tesla ​ ​</s><s p="1">​
+​</s><s p="3">​ ​is because it can drive itself.​ ​</s><s p="1">​</s></p>
+<p t="80367" d="3033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The real reason you&#39;re buying a Tesla ​ ​</s><s p="1">​
+​</s><s p="4">​ ​is because it can drive itself.​ ​</s><s p="1">​</s></p>
+<p t="84300" d="568" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="84300" d="568" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="84868" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m no longer driving the car.​ ​</s><s p="1">​</s></p>
+<p t="84868" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m no longer driving the car.​ ​</s><s p="1">​</s></p>
+<p t="86601" d="1499" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, it&#39;s switching lanes.​ ​</s><s p="1">​</s></p>
+<p t="86601" d="1499" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, it&#39;s switching lanes.​ ​</s><s p="1">​</s></p>
+<p t="88100" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, it is literally driving itself.​ ​</s><s p="1">​</s></p>
+<p t="88100" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, it is literally driving itself.​ ​</s><s p="1">​</s></p>
+<p t="90634" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m not touching the gas and I&#39;m ​ ​</s><s p="1">​
+​</s><s p="3">​ ​not touching the steering wheel.​ ​</s><s p="1">​</s></p>
+<p t="90634" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m not touching the gas and I&#39;m ​ ​</s><s p="1">​
+​</s><s p="4">​ ​not touching the steering wheel.​ ​</s><s p="1">​</s></p>
+<p t="93267" d="2701" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​Jimmy, are you telling me now ​ ​</s><s p="1">​
+​</s><s p="11">​ ​you can take a nap while driving?​ ​</s><s p="1">​</s></p>
+<p t="93267" d="2701" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​Jimmy, are you telling me now ​ ​</s><s p="1">​
+​</s><s p="12">​ ​you can take a nap while driving?​ ​</s><s p="1">​</s></p>
+<p t="95968" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-No, don&#39;t do that. ​ ​</s><s p="1">​
+​</s><s p="11">​ ​-Oh ok.​ ​</s><s p="1">​</s></p>
+<p t="95968" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-No, don&#39;t do that. ​ ​</s><s p="1">​
+​</s><s p="12">​ ​-Oh ok.​ ​</s><s p="1">​</s></p>
+<p t="97701" d="2233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Now, let&#39;s see how fast the car goes.​ ​</s><s p="1">​</s></p>
+<p t="97701" d="2233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Now, let&#39;s see how fast the car goes.​ ​</s><s p="1">​</s></p>
+<p t="102167" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​It jerks you backwards.​ ​</s><s p="1">​</s></p>
+<p t="102167" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​It jerks you backwards.​ ​</s><s p="1">​</s></p>
+<p t="103601" d="766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​That&#39;s terrifying.​ ​</s><s p="1">​</s></p>
+<p t="103601" d="766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​That&#39;s terrifying.​ ​</s><s p="1">​</s></p>
+<p t="104367" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​This is just the beginning.​ ​</s><s p="1">​</s></p>
+<p t="104367" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​This is just the beginning.​ ​</s><s p="1">​</s></p>
+<p t="105567" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Later, we have a car ​ ​</s><s p="1">​
+​</s><s p="13">​ ​that literally transforms​ ​</s><s p="1">​</s></p>
+<p t="105567" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Later, we have a car ​ ​</s><s p="1">​
+​</s><s p="14">​ ​that literally transforms​ ​</s><s p="1">​</s></p>
+<p t="107634" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​into an airplane and flies.​ ​</s><s p="1">​</s></p>
+<p t="107634" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​into an airplane and flies.​ ​</s><s p="1">​</s></p>
+<p t="109267" d="634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​But now.​ ​</s><s p="1">​</s></p>
+<p t="109267" d="634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​But now.​ ​</s><s p="1">​</s></p>
+<p t="109901" d="2399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Oh look that lambo.​ ​</s><s p="1">​</s></p>
+<p t="109901" d="2399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Oh look that lambo.​ ​</s><s p="1">​</s></p>
+<p t="112634" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Oh, I almost hit it.​ ​</s><s p="1">​</s></p>
+<p t="112634" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Oh, I almost hit it.​ ​</s><s p="1">​</s></p>
+<p t="114100" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Bro just left the keys in here. ​ ​</s><s p="1">​
+​</s><s p="9">​ ​How&#39;d nobody steal it?​ ​</s><s p="1">​</s></p>
+<p t="114100" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Bro just left the keys in here. ​ ​</s><s p="1">​
+​</s><s p="10">​ ​How&#39;d nobody steal it?​ ​</s><s p="1">​</s></p>
+<p t="116200" d="3634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Even though this cost twice ​ ​</s><s p="1">​
+​</s><s p="3">​ ​as much, it has half as much space.​ ​</s><s p="1">​</s></p>
+<p t="116200" d="3634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Even though this cost twice ​ ​</s><s p="1">​
+​</s><s p="4">​ ​as much, it has half as much space.​ ​</s><s p="1">​</s></p>
+<p t="119934" d="3034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I don&#39;t know if I take 200k for this ​ ​</s><s p="1">​
+​</s><s p="3">​ ​car because I don&#39;t fit in it.​ ​</s><s p="1">​</s></p>
+<p t="119934" d="3034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I don&#39;t know if I take 200k for this ​ ​</s><s p="1">​
+​</s><s p="4">​ ​car because I don&#39;t fit in it.​ ​</s><s p="1">​</s></p>
+<p t="122968" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Did they even know ​ ​</s><s p="1">​
+​</s><s p="9">​ ​how to drive a Lamborghini?​ ​</s><s p="1">​</s></p>
+<p t="122968" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Did they even know ​ ​</s><s p="1">​
+​</s><s p="10">​ ​how to drive a Lamborghini?​ ​</s><s p="1">​</s></p>
+<p t="124934" d="1967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​How would you do fourth?​ ​</s><s p="1">​</s></p>
+<p t="124934" d="1967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​How would you do fourth?​ ​</s><s p="1">​</s></p>
+<p t="126901" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​I think you just click the shifter.​ ​</s><s p="1">​</s></p>
+<p t="126901" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​I think you just click the shifter.​ ​</s><s p="1">​</s></p>
+<p t="129734" d="733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="129734" d="733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="130501" d="1532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And now we&#39;re on the road.​ ​</s><s p="1">​</s></p>
+<p t="130501" d="1532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And now we&#39;re on the road.​ ​</s><s p="1">​</s></p>
+<p t="132033" d="1568" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, that sound.​ ​</s><s p="1">​</s></p>
+<p t="132033" d="1568" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, that sound.​ ​</s><s p="1">​</s></p>
+<p t="133601" d="1466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh my gosh. She sounds angry​ ​</s><s p="1">​</s></p>
+<p t="133601" d="1466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh my gosh. She sounds angry​ ​</s><s p="1">​</s></p>
+<p t="135067" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​Hey, she&#39;s got some power.​ ​</s><s p="1">​</s></p>
+<p t="135067" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​Hey, she&#39;s got some power.​ ​</s><s p="1">​</s></p>
+<p t="136801" d="800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, my gosh.​ ​</s><s p="1">​</s></p>
+<p t="136801" d="800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, my gosh.​ ​</s><s p="1">​</s></p>
+<p t="137601" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This car is insane.​ ​</s><s p="1">​</s></p>
+<p t="137601" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This car is insane.​ ​</s><s p="1">​</s></p>
+<p t="139434" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m barely touching the gas, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​and we&#39;re flying.​ ​</s><s p="1">​</s></p>
+<p t="139434" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m barely touching the gas, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​and we&#39;re flying.​ ​</s><s p="1">​</s></p>
+<p t="141667" d="2034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This might be the fastest car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​I&#39;ve ever driven.​ ​</s><s p="1">​</s></p>
+<p t="141667" d="2034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This might be the fastest car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​I&#39;ve ever driven.​ ​</s><s p="1">​</s></p>
+<p t="143701" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​If you need to compensate ​ ​</s><s p="1">​
+​</s><s p="3">​ ​for something,​ ​</s><s p="1">​</s></p>
+<p t="143701" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​If you need to compensate ​ ​</s><s p="1">​
+​</s><s p="4">​ ​for something,​ ​</s><s p="1">​</s></p>
+<p t="145467" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​this is definitely the car.​ ​</s><s p="1">​</s></p>
+<p t="145467" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​this is definitely the car.​ ​</s><s p="1">​</s></p>
+<p t="146667" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And now we&#39;re at the $300,000 car,​ ​</s><s p="1">​</s></p>
+<p t="146667" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And now we&#39;re at the $300,000 car,​ ​</s><s p="1">​</s></p>
+<p t="149701" d="3033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​and this is supposedly ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the safest car on the planet.​ ​</s><s p="1">​</s></p>
+<p t="149701" d="3033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​and this is supposedly ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the safest car on the planet.​ ​</s><s p="1">​</s></p>
+<p t="152767" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​It&#39;s like a tank.​ ​</s><s p="1">​</s></p>
+<p t="152767" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​It&#39;s like a tank.​ ​</s><s p="1">​</s></p>
+<p t="153934" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Is this a military-grade car?​ ​</s><s p="1">​</s></p>
+<p t="153934" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Is this a military-grade car?​ ​</s><s p="1">​</s></p>
+<p t="155634" d="1399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="17">​ ​Yeah. This is so high up.​ ​</s><s p="1">​</s></p>
+<p t="155634" d="1399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="18">​ ​Yeah. This is so high up.​ ​</s><s p="1">​</s></p>
+<p t="157033" d="1601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​You were also just in the Lamborghini.​ ​</s><s p="1">​</s></p>
+<p t="157033" d="1601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​You were also just in the Lamborghini.​ ​</s><s p="1">​</s></p>
+<p t="158667" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​True, true perspective.​ ​</s><s p="1">​</s></p>
+<p t="158667" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​True, true perspective.​ ​</s><s p="1">​</s></p>
+<p t="159968" d="2099" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s go over ​ ​</s><s p="1">​
+​</s><s p="3">​ ​what makes this car so safe.​ ​</s><s p="1">​</s></p>
+<p t="159968" d="2099" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s go over ​ ​</s><s p="1">​
+​</s><s p="4">​ ​what makes this car so safe.​ ​</s><s p="1">​</s></p>
+<p t="162067" d="3267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​First things first is the bulletproof ​ ​</s><s p="1">​
+​</s><s p="3">​ ​windows that are this thick.​ ​</s><s p="1">​</s></p>
+<p t="162067" d="3267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​First things first is the bulletproof ​ ​</s><s p="1">​
+​</s><s p="4">​ ​windows that are this thick.​ ​</s><s p="1">​</s></p>
+<p t="165367" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The car is also encased ​ ​</s><s p="1">​
+​</s><s p="3">​ ​in explosive proof armor​ ​</s><s p="1">​</s></p>
+<p t="165367" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The car is also encased ​ ​</s><s p="1">​
+​</s><s p="4">​ ​in explosive proof armor​ ​</s><s p="1">​</s></p>
+<p t="168434" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​that we&#39;re going to put to the test ​ ​</s><s p="1">​
+​</s><s p="3">​ ​later on.​ ​</s><s p="1">​</s></p>
+<p t="168434" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​that we&#39;re going to put to the test ​ ​</s><s p="1">​
+​</s><s p="4">​ ​later on.​ ​</s><s p="1">​</s></p>
+<p t="170267" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-Karl, do you want to press the button? ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-So bad.​ ​</s><s p="1">​</s></p>
+<p t="170267" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-Karl, do you want to press the button? ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-So bad.​ ​</s><s p="1">​</s></p>
+<p t="172634" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-You want to hit the smokescreen button? ​ ​</s><s p="1">​
+​</s><s p="15">​ ​-Please?​ ​</s><s p="1">​</s></p>
+<p t="172634" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-You want to hit the smokescreen button? ​ ​</s><s p="1">​
+​</s><s p="16">​ ​-Please?​ ​</s><s p="1">​</s></p>
+<p t="177467" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​That is crazy.​ ​</s><s p="1">​</s></p>
+<p t="177467" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​That is crazy.​ ​</s><s p="1">​</s></p>
+<p t="178968" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​We have a literal smokescreen.​ ​</s><s p="1">​</s></p>
+<p t="178968" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​We have a literal smokescreen.​ ​</s><s p="1">​</s></p>
+<p t="180801" d="3332" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Oh, my gosh, It smells.​ ​</s><s p="1">​</s></p>
+<p t="180801" d="3332" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Oh, my gosh, It smells.​ ​</s><s p="1">​</s></p>
+<p t="184133" d="1835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​But the best part is ​ ​</s><s p="1">​
+​</s><s p="3">​ ​none of these features are​ ​</s><s p="1">​</s></p>
+<p t="184133" d="1835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​But the best part is ​ ​</s><s p="1">​
+​</s><s p="4">​ ​none of these features are​ ​</s><s p="1">​</s></p>
+<p t="185968" d="1232" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​what makes the car really safe.​ ​</s><s p="1">​</s></p>
+<p t="185968" d="1232" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​what makes the car really safe.​ ​</s><s p="1">​</s></p>
+<p t="187200" d="3134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s the little explosive proof ​ ​</s><s p="1">​
+​</s><s p="3">​ ​frame around the car.​ ​</s><s p="1">​</s></p>
+<p t="187200" d="3134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s the little explosive proof ​ ​</s><s p="1">​
+​</s><s p="4">​ ​frame around the car.​ ​</s><s p="1">​</s></p>
+<p t="190367" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And we&#39;re going to be ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the first people to test it.​ ​</s><s p="1">​</s></p>
+<p t="190367" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And we&#39;re going to be ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the first people to test it.​ ​</s><s p="1">​</s></p>
+<p t="192200" d="2933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And for reference, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​before we blow up the $300,000 car,​ ​</s><s p="1">​</s></p>
+<p t="192200" d="2933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And for reference, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​before we blow up the $300,000 car,​ ​</s><s p="1">​</s></p>
+<p t="195267" d="2967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​we&#39;re going to blow up on normal cars ​ ​</s><s p="1">​
+​</s><s p="3">​ ​to see if the passengers survive.​ ​</s><s p="1">​</s></p>
+<p t="195267" d="2967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​we&#39;re going to blow up on normal cars ​ ​</s><s p="1">​
+​</s><s p="4">​ ​to see if the passengers survive.​ ​</s><s p="1">​</s></p>
+<p t="198734" d="2700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Three, two, one.​ ​</s><s p="1">​</s></p>
+<p t="198734" d="2700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Three, two, one.​ ​</s><s p="1">​</s></p>
+<p t="207734" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Not only is it on fire, ​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the mannequins​ ​</s><s p="1">​</s></p>
+<p t="207734" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Not only is it on fire, ​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the mannequins​ ​</s><s p="1">​</s></p>
+<p t="209667" d="1201" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​literally flew out of the car.​ ​</s><s p="1">​</s></p>
+<p t="209667" d="1201" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​literally flew out of the car.​ ​</s><s p="1">​</s></p>
+<p t="210901" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We blew a sunroof ​ ​</s><s p="1">​
+​</s><s p="3">​ ​into that thing.​ ​</s><s p="1">​</s></p>
+<p t="210901" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We blew a sunroof ​ ​</s><s p="1">​
+​</s><s p="4">​ ​into that thing.​ ​</s><s p="1">​</s></p>
+<p t="212567" d="1401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It doesn&#39;t handle it well at all.​ ​</s><s p="1">​</s></p>
+<p t="212567" d="1401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It doesn&#39;t handle it well at all.​ ​</s><s p="1">​</s></p>
+<p t="214000" d="2734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And before we blow up this car, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​I&#39;m going to put feastables inside​ ​</s><s p="1">​</s></p>
+<p t="214000" d="2734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And before we blow up this car, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​I&#39;m going to put feastables inside​ ​</s><s p="1">​</s></p>
+<p t="216734" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Better protect my freaking chocolate.​ ​</s><s p="1">​</s></p>
+<p t="216734" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Better protect my freaking chocolate.​ ​</s><s p="1">​</s></p>
+<p t="218300" d="3967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​So supposedly this car is explosion ​ ​</s><s p="1">​
+​</s><s p="13">​ ​proof, but that&#39;s never been tested.​ ​</s><s p="1">​</s></p>
+<p t="218300" d="3967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​So supposedly this car is explosion ​ ​</s><s p="1">​
+​</s><s p="14">​ ​proof, but that&#39;s never been tested.​ ​</s><s p="1">​</s></p>
+<p t="222300" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Let&#39;s see if the mannequins​ ​</s><s p="1">​</s></p>
+<p t="222300" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Let&#39;s see if the mannequins​ ​</s><s p="1">​</s></p>
+<p t="223534" d="2533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​and even more importantly, ​ ​</s><s p="1">​
+​</s><s p="13">​ ​the Feastables survive.​ ​</s><s p="1">​</s></p>
+<p t="223534" d="2533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​and even more importantly, ​ ​</s><s p="1">​
+​</s><s p="14">​ ​the Feastables survive.​ ​</s><s p="1">​</s></p>
+<p t="226334" d="2733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Three, two, one.​ ​</s><s p="1">​</s></p>
+<p t="226334" d="2733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Three, two, one.​ ​</s><s p="1">​</s></p>
+<p t="240234" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It just jumped.​ ​</s><s p="1">​</s></p>
+<p t="240234" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It just jumped.​ ​</s><s p="1">​</s></p>
+<p t="241300" d="3201" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The car survived the blast ​ ​</s><s p="1">​
+​</s><s p="3">​ ​with only a few minor scrapes.​ ​</s><s p="1">​</s></p>
+<p t="241300" d="3201" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The car survived the blast ​ ​</s><s p="1">​
+​</s><s p="4">​ ​with only a few minor scrapes.​ ​</s><s p="1">​</s></p>
+<p t="244501" d="2599" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It put a dent in the window. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Wait. Hold on, hold on.​ ​</s><s p="1">​</s></p>
+<p t="244501" d="2599" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It put a dent in the window. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Wait. Hold on, hold on.​ ​</s><s p="1">​</s></p>
+<p t="247100" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Where are the feastables? Chandler, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​get out the way.​ ​</s><s p="1">​</s></p>
+<p t="247100" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Where are the feastables? Chandler, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​get out the way.​ ​</s><s p="1">​</s></p>
+<p t="249567" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The feastables survive.​ ​</s><s p="1">​</s></p>
+<p t="249567" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The feastables survive.​ ​</s><s p="1">​</s></p>
+<p t="251234" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​If you&#39;re looking for a car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​that can take a bomb,​ ​</s><s p="1">​</s></p>
+<p t="251234" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​If you&#39;re looking for a car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​that can take a bomb,​ ​</s><s p="1">​</s></p>
+<p t="253300" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I officially recommend this one.​ ​</s><s p="1">​</s></p>
+<p t="253300" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I officially recommend this one.​ ​</s><s p="1">​</s></p>
+<p t="254734" d="3100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​But since you&#39;re not going to war ​ ​</s><s p="1">​
+​</s><s p="3">​ ​anytime soon for only an extra​ ​</s><s p="1">​</s></p>
+<p t="254734" d="3100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​But since you&#39;re not going to war ​ ​</s><s p="1">​
+​</s><s p="4">​ ​anytime soon for only an extra​ ​</s><s p="1">​</s></p>
+<p t="257834" d="5034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​$200,000, you could get this ​ ​</s><s p="1">​
+​</s><s p="3">​ ​$500,000 boat car.​ ​</s><s p="1">​</s></p>
+<p t="257834" d="5034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​$200,000, you could get this ​ ​</s><s p="1">​
+​</s><s p="4">​ ​$500,000 boat car.​ ​</s><s p="1">​</s></p>
+<p t="262868" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​On land this is a normal car.​ ​</s><s p="1">​</s></p>
+<p t="262868" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​On land this is a normal car.​ ​</s><s p="1">​</s></p>
+<p t="264567" d="2466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​You can&#39;t really tell the difference. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​But here&#39;s the fun part.​ ​</s><s p="1">​</s></p>
+<p t="264567" d="2466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​You can&#39;t really tell the difference. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​But here&#39;s the fun part.​ ​</s><s p="1">​</s></p>
+<p t="267133" d="2601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Just drive it in the water ​ ​</s><s p="1">​
+​</s><s p="3">​ ​and it turns into a boat.​ ​</s><s p="1">​</s></p>
+<p t="267133" d="2601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Just drive it in the water ​ ​</s><s p="1">​
+​</s><s p="4">​ ​and it turns into a boat.​ ​</s><s p="1">​</s></p>
+<p t="269934" d="1233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We&#39;ll let Karl go first.​ ​</s><s p="1">​</s></p>
+<p t="269934" d="1233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We&#39;ll let Karl go first.​ ​</s><s p="1">​</s></p>
+<p t="271167" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Here we go.​ ​</s><s p="1">​</s></p>
+<p t="271167" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Here we go.​ ​</s><s p="1">​</s></p>
+<p t="272367" d="1334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Oh, this doesn&#39;t feel right.​ ​</s><s p="1">​</s></p>
+<p t="272367" d="1334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Oh, this doesn&#39;t feel right.​ ​</s><s p="1">​</s></p>
+<p t="274067" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​This doesn&#39;t feel right.​ ​</s><s p="1">​</s></p>
+<p t="274067" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​This doesn&#39;t feel right.​ ​</s><s p="1">​</s></p>
+<p t="275267" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m having them go first ​ ​</s><s p="1">​
+​</s><s p="3">​ ​just so I can make sure it works.​ ​</s><s p="1">​</s></p>
+<p t="275267" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m having them go first ​ ​</s><s p="1">​
+​</s><s p="4">​ ​just so I can make sure it works.​ ​</s><s p="1">​</s></p>
+<p t="277501" d="3133" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Are we sinking, no we are floating!​ ​</s><s p="1">​</s></p>
+<p t="277501" d="3133" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Are we sinking, no we are floating!​ ​</s><s p="1">​</s></p>
+<p t="280868" d="2132" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, it looks like it ​ ​</s><s p="1">​
+​</s><s p="3">​ ​worked. Let&#39;s see what happens.​ ​</s><s p="1">​</s></p>
+<p t="280868" d="2132" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, it looks like it ​ ​</s><s p="1">​
+​</s><s p="4">​ ​worked. Let&#39;s see what happens.​ ​</s><s p="1">​</s></p>
+<p t="283200" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="17">​ ​Oh, my God. We&#39;re driving in the water.​ ​</s><s p="1">​</s></p>
+<p t="283200" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="18">​ ​Oh, my God. We&#39;re driving in the water.​ ​</s><s p="1">​</s></p>
+<p t="285367" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, so you press ​ ​</s><s p="1">​
+​</s><s p="3">​ ​this until you hear a beep.​ ​</s><s p="1">​</s></p>
+<p t="285367" d="2334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, so you press ​ ​</s><s p="1">​
+​</s><s p="4">​ ​this until you hear a beep.​ ​</s><s p="1">​</s></p>
+<p t="288734" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That&#39;s a beep.​ ​</s><s p="1">​</s></p>
+<p t="288734" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That&#39;s a beep.​ ​</s><s p="1">​</s></p>
+<p t="289767" d="2667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Now, I should be able to drive this ​ ​</s><s p="1">​
+​</s><s p="3">​ ​like a normal car, but on the water.​ ​</s><s p="1">​</s></p>
+<p t="289767" d="2667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Now, I should be able to drive this ​ ​</s><s p="1">​
+​</s><s p="4">​ ​like a normal car, but on the water.​ ​</s><s p="1">​</s></p>
+<p t="292767" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Thea hold on.​ ​</s><s p="1">​</s></p>
+<p t="292767" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Thea hold on.​ ​</s><s p="1">​</s></p>
+<p t="296367" d="1467" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​This is incredible.​ ​</s><s p="1">​</s></p>
+<p t="296367" d="1467" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​This is incredible.​ ​</s><s p="1">​</s></p>
+<p t="299501" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​This was literally a car five seconds ago.​ ​</s><s p="1">​</s></p>
+<p t="299501" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​This was literally a car five seconds ago.​ ​</s><s p="1">​</s></p>
+<p t="301868" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Yeah!​ ​</s><s p="1">​</s></p>
+<p t="301868" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Yeah!​ ​</s><s p="1">​</s></p>
+<p t="303300" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="7">​ ​I would be out there with them, ​ ​</s><s p="1">​
+​</s><s p="7">​ ​but I get carsick and boat sick.​ ​</s><s p="1">​</s></p>
+<p t="303300" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="8">​ ​I would be out there with them, ​ ​</s><s p="1">​
+​</s><s p="8">​ ​but I get carsick and boat sick.​ ​</s><s p="1">​</s></p>
+<p t="306234" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="7">​ ​Oh, hey there.​ ​</s><s p="1">​</s></p>
+<p t="306234" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="8">​ ​Oh, hey there.​ ​</s><s p="1">​</s></p>
+<p t="311534" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Oh my God.​ ​</s><s p="1">​</s></p>
+<p t="311534" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Oh my God.​ ​</s><s p="1">​</s></p>
+<p t="312834" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​All right, Karl!​ ​</s><s p="1">​</s></p>
+<p t="312834" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​All right, Karl!​ ​</s><s p="1">​</s></p>
+<p t="315701" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Karl!​ ​</s><s p="1">​</s></p>
+<p t="315701" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Karl!​ ​</s><s p="1">​</s></p>
+<p t="320734" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​They should not have let me drive this​ ​</s><s p="1">​</s></p>
+<p t="320734" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​They should not have let me drive this​ ​</s><s p="1">​</s></p>
+<p t="331767" d="1034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We got it baby.​ ​</s><s p="1">​</s></p>
+<p t="331767" d="1034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We got it baby.​ ​</s><s p="1">​</s></p>
+<p t="333367" d="2400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Rule number one, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​stay really far away from Kris.​ ​</s><s p="1">​</s></p>
+<p t="333367" d="2400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Rule number one, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​stay really far away from Kris.​ ​</s><s p="1">​</s></p>
+<p t="335934" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We&#39;re driving in circles.​ ​</s><s p="1">​</s></p>
+<p t="335934" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We&#39;re driving in circles.​ ​</s><s p="1">​</s></p>
+<p t="338934" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="7">​ ​Oh, they&#39;re doing donuts in the water, ​ ​</s><s p="1">​
+​</s><s p="7">​ ​they&#39;re making a whirlpool.​ ​</s><s p="1">​</s></p>
+<p t="338934" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="8">​ ​Oh, they&#39;re doing donuts in the water, ​ ​</s><s p="1">​
+​</s><s p="8">​ ​they&#39;re making a whirlpool.​ ​</s><s p="1">​</s></p>
+<p t="342434" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​I just met this guy 5 seconds ago.​ ​</s><s p="1">​</s></p>
+<p t="342434" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​I just met this guy 5 seconds ago.​ ​</s><s p="1">​</s></p>
+<p t="344234" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​We&#39;re going to race​ ​</s><s p="1">​</s></p>
+<p t="344234" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​We&#39;re going to race​ ​</s><s p="1">​</s></p>
+<p t="345334" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​three, two, one. Go!​ ​</s><s p="1">​</s></p>
+<p t="345334" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​three, two, one. Go!​ ​</s><s p="1">​</s></p>
+<p t="348868" d="1132" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​He is so much faster.​ ​</s><s p="1">​</s></p>
+<p t="348868" d="1132" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​He is so much faster.​ ​</s><s p="1">​</s></p>
+<p t="350033" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​He&#39;s not even trying. ​ ​</s><s p="1">​
+​</s><s p="13">​ ​Come on. Faster.​ ​</s><s p="1">​</s></p>
+<p t="350033" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​He&#39;s not even trying. ​ ​</s><s p="1">​
+​</s><s p="14">​ ​Come on. Faster.​ ​</s><s p="1">​</s></p>
+<p t="353234" d="1567" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Oh, we&#39;re destroying him.​ ​</s><s p="1">​</s></p>
+<p t="353234" d="1567" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Oh, we&#39;re destroying him.​ ​</s><s p="1">​</s></p>
+<p t="355701" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-He&#39;s slowing down. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-I can&#39;t believe we just beat him.​ ​</s><s p="1">​</s></p>
+<p t="355701" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-He&#39;s slowing down. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-I can&#39;t believe we just beat him.​ ​</s><s p="1">​</s></p>
+<p t="358067" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This thing goes way too fast.​ ​</s><s p="1">​</s></p>
+<p t="358067" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This thing goes way too fast.​ ​</s><s p="1">​</s></p>
+<p t="360100" d="3734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The fact that all three of us are ​ ​</s><s p="1">​
+​</s><s p="3">​ ​driving cars on the ocean is insane.​ ​</s><s p="1">​</s></p>
+<p t="360100" d="3734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The fact that all three of us are ​ ​</s><s p="1">​
+​</s><s p="4">​ ​driving cars on the ocean is insane.​ ​</s><s p="1">​</s></p>
+<p t="363934" d="2166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Jimmy, I love this thing so much.​ ​</s><s p="1">​</s></p>
+<p t="363934" d="2166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Jimmy, I love this thing so much.​ ​</s><s p="1">​</s></p>
+<p t="366200" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The craziest part is this is just ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the beginning of this video.​ ​</s><s p="1">​</s></p>
+<p t="366200" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The craziest part is this is just ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the beginning of this video.​ ​</s><s p="1">​</s></p>
+<p t="369501" d="2333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The next car on our list ​ ​</s><s p="1">​
+​</s><s p="3">​ ​can literally fly.​ ​</s><s p="1">​</s></p>
+<p t="369501" d="2333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The next car on our list ​ ​</s><s p="1">​
+​</s><s p="4">​ ​can literally fly.​ ​</s><s p="1">​</s></p>
+<p t="371834" d="3433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And since I&#39;m afraid of heights, I&#39;ll ​ ​</s><s p="1">​
+​</s><s p="3">​ ​let Karl and Nolan take this one.​ ​</s><s p="1">​</s></p>
+<p t="371834" d="3433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And since I&#39;m afraid of heights, I&#39;ll ​ ​</s><s p="1">​
+​</s><s p="4">​ ​let Karl and Nolan take this one.​ ​</s><s p="1">​</s></p>
+<p t="376467" d="1401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Dude, what is happening?​ ​</s><s p="1">​</s></p>
+<p t="376467" d="1401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Dude, what is happening?​ ​</s><s p="1">​</s></p>
+<p t="378100" d="3834" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This car is not only completely ​ ​</s><s p="1">​
+​</s><s p="3">​ ​street legal, but it also has wings​ ​</s><s p="1">​</s></p>
+<p t="378100" d="3834" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This car is not only completely ​ ​</s><s p="1">​
+​</s><s p="4">​ ​street legal, but it also has wings​ ​</s><s p="1">​</s></p>
+<p t="381934" d="1366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​that can take it to literally​ ​</s><s p="1">​</s></p>
+<p t="381934" d="1366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​that can take it to literally​ ​</s><s p="1">​</s></p>
+<p t="383300" d="1967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​8000 feet in the sky.​ ​</s><s p="1">​</s></p>
+<p t="383300" d="1967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​8000 feet in the sky.​ ​</s><s p="1">​</s></p>
+<p t="385300" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​There&#39;s literally a propeller on that car.​ ​</s><s p="1">​</s></p>
+<p t="385300" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​There&#39;s literally a propeller on that car.​ ​</s><s p="1">​</s></p>
+<p t="387167" d="1367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Stay here and watch it take off.​ ​</s><s p="1">​</s></p>
+<p t="387167" d="1367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Stay here and watch it take off.​ ​</s><s p="1">​</s></p>
+<p t="388534" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m going to go ​ ​</s><s p="1">​
+​</s><s p="3">​ ​in that plane and follow it.​ ​</s><s p="1">​</s></p>
+<p t="388534" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m going to go ​ ​</s><s p="1">​
+​</s><s p="4">​ ​in that plane and follow it.​ ​</s><s p="1">​</s></p>
+<p t="391367" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I just don&#39;t believe ​ ​</s><s p="1">​
+​</s><s p="3">​ ​this is actually going to fly​ ​</s><s p="1">​</s></p>
+<p t="391367" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I just don&#39;t believe ​ ​</s><s p="1">​
+​</s><s p="4">​ ​this is actually going to fly​ ​</s><s p="1">​</s></p>
+<p t="397100" d="1601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​It&#39;s taking off!​ ​</s><s p="1">​</s></p>
+<p t="397100" d="1601" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​It&#39;s taking off!​ ​</s><s p="1">​</s></p>
+<p t="398701" d="2566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​The wheels aren&#39;t on the ground anymore.​ ​</s><s p="1">​</s></p>
+<p t="398701" d="2566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​The wheels aren&#39;t on the ground anymore.​ ​</s><s p="1">​</s></p>
+<p t="401601" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​It&#39;s literally a car that&#39;s flying.​ ​</s><s p="1">​</s></p>
+<p t="401601" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​It&#39;s literally a car that&#39;s flying.​ ​</s><s p="1">​</s></p>
+<p t="404167" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​These cars are getting crazier and crazier.​ ​</s><s p="1">​</s></p>
+<p t="404167" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​These cars are getting crazier and crazier.​ ​</s><s p="1">​</s></p>
+<p t="406467" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​I can&#39;t even believe my eyes.​ ​</s><s p="1">​</s></p>
+<p t="406467" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​I can&#39;t even believe my eyes.​ ​</s><s p="1">​</s></p>
+<p t="408267" d="2434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​There is a car ​ ​</s><s p="1">​
+​</s><s p="9">​ ​a mile above my head right now.​ ​</s><s p="1">​</s></p>
+<p t="408267" d="2434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​There is a car ​ ​</s><s p="1">​
+​</s><s p="10">​ ​a mile above my head right now.​ ​</s><s p="1">​</s></p>
+<p t="414000" d="1534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Oh, this so cool.​ ​</s><s p="1">​</s></p>
+<p t="414000" d="1534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Oh, this so cool.​ ​</s><s p="1">​</s></p>
+<p t="415534" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​I feel like for $600,000, ​ ​</s><s p="1">​
+​</s><s p="9">​ ​this is a steal.​ ​</s><s p="1">​</s></p>
+<p t="415534" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​I feel like for $600,000, ​ ​</s><s p="1">​
+​</s><s p="10">​ ​this is a steal.​ ​</s><s p="1">​</s></p>
+<p t="418634" d="1399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​Prepare for landing.​ ​</s><s p="1">​</s></p>
+<p t="418634" d="1399" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​Prepare for landing.​ ​</s><s p="1">​</s></p>
+<p t="420968" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Up next is the $1 million car.​ ​</s><s p="1">​</s></p>
+<p t="420968" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Up next is the $1 million car.​ ​</s><s p="1">​</s></p>
+<p t="422734" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​But I didn&#39;t only bring one up.​ ​</s><s p="1">​</s></p>
+<p t="422734" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​But I didn&#39;t only bring one up.​ ​</s><s p="1">​</s></p>
+<p t="424334" d="3267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​As you can imagine, there&#39;s ​ ​</s><s p="1">​
+​</s><s p="15">​ ​a lot of $1 million cars out there.​ ​</s><s p="1">​</s></p>
+<p t="424334" d="3267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​As you can imagine, there&#39;s ​ ​</s><s p="1">​
+​</s><s p="16">​ ​a lot of $1 million cars out there.​ ​</s><s p="1">​</s></p>
+<p t="427734" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="19">​ ​So to make sure ​ ​</s><s p="1">​
+​</s><s p="19">​ ​I brought your favorite,​ ​</s><s p="1">​</s></p>
+<p t="427734" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="20">​ ​So to make sure ​ ​</s><s p="1">​
+​</s><s p="20">​ ​I brought your favorite,​ ​</s><s p="1">​</s></p>
+<p t="429434" d="3933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="19">​ ​we got the ten coolest ​ ​</s><s p="1">​
+​</s><s p="19">​ ​$1 million cars.​ ​</s><s p="1">​</s></p>
+<p t="429434" d="3933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="20">​ ​we got the ten coolest ​ ​</s><s p="1">​
+​</s><s p="20">​ ​$1 million cars.​ ​</s><s p="1">​</s></p>
+<p t="433567" d="3600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And as per usual, we have the entire ​ ​</s><s p="1">​
+​</s><s p="3">​ ​racetrack to ourselves.​ ​</s><s p="1">​</s></p>
+<p t="433567" d="3600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And as per usual, we have the entire ​ ​</s><s p="1">​
+​</s><s p="4">​ ​racetrack to ourselves.​ ​</s><s p="1">​</s></p>
+<p t="437167" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​So I let my friends choose ​ ​</s><s p="1">​
+​</s><s p="3">​ ​whatever car they wanted.​ ​</s><s p="1">​</s></p>
+<p t="437167" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​So I let my friends choose ​ ​</s><s p="1">​
+​</s><s p="4">​ ​whatever car they wanted.​ ​</s><s p="1">​</s></p>
+<p t="439467" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m going to ride with you. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​You pick.​ ​</s><s p="1">​</s></p>
+<p t="439467" d="1600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m going to ride with you. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​You pick.​ ​</s><s p="1">​</s></p>
+<p t="441100" d="734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Look at this baby.​ ​</s><s p="1">​</s></p>
+<p t="441100" d="734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Look at this baby.​ ​</s><s p="1">​</s></p>
+<p t="441834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Am I going to fit in this?​ ​</s><s p="1">​</s></p>
+<p t="441834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Am I going to fit in this?​ ​</s><s p="1">​</s></p>
+<p t="443033" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​I&#39;ll try not to text and drive.​ ​</s><s p="1">​</s></p>
+<p t="443033" d="1434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​I&#39;ll try not to text and drive.​ ​</s><s p="1">​</s></p>
+<p t="444467" d="2501" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s private property. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​It&#39;s technically legal here.​ ​</s><s p="1">​</s></p>
+<p t="444467" d="2501" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s private property. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​It&#39;s technically legal here.​ ​</s><s p="1">​</s></p>
+<p t="446968" d="2332" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, here we go.​ ​</s><s p="1">​</s></p>
+<p t="446968" d="2332" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, here we go.​ ​</s><s p="1">​</s></p>
+<p t="454834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We&#39;re never going to die.​ ​</s><s p="1">​</s></p>
+<p t="454834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We&#39;re never going to die.​ ​</s><s p="1">​</s></p>
+<p t="456067" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Don&#39;t jinx it.​ ​</s><s p="1">​</s></p>
+<p t="456067" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Don&#39;t jinx it.​ ​</s><s p="1">​</s></p>
+<p t="457133" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="11">​ ​I feel like I&#39;m in NASCAR.​ ​</s><s p="1">​</s></p>
+<p t="457133" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="12">​ ​I feel like I&#39;m in NASCAR.​ ​</s><s p="1">​</s></p>
+<p t="458434" d="2500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m having so much fun. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​This feels like Fast &amp; Furious.​ ​</s><s p="1">​</s></p>
+<p t="458434" d="2500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m having so much fun. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​This feels like Fast &amp; Furious.​ ​</s><s p="1">​</s></p>
+<p t="461033" d="4434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​There&#39;s just something so masculine ​ ​</s><s p="1">​
+​</s><s p="3">​ ​about driving over priced loud cars.​ ​</s><s p="1">​</s></p>
+<p t="461033" d="4434" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​There&#39;s just something so masculine ​ ​</s><s p="1">​
+​</s><s p="4">​ ​about driving over priced loud cars.​ ​</s><s p="1">​</s></p>
+<p t="465501" d="1266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="21">​ ​On a private racetrack.​ ​</s><s p="1">​</s></p>
+<p t="465501" d="1266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="22">​ ​On a private racetrack.​ ​</s><s p="1">​</s></p>
+<p t="466767" d="1867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​On a private racetrack.​ ​</s><s p="1">​</s></p>
+<p t="466767" d="1867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​On a private racetrack.​ ​</s><s p="1">​</s></p>
+<p t="468634" d="1499" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="21">​ ​Hold on. ​ ​</s><s p="1">​
+​</s><s p="21">​ ​I got to send a text.​ ​</s><s p="1">​</s></p>
+<p t="468634" d="1499" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="22">​ ​Hold on. ​ ​</s><s p="1">​
+​</s><s p="22">​ ​I got to send a text.​ ​</s><s p="1">​</s></p>
+<p t="470634" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​No, I&#39;m kidding.​ ​</s><s p="1">​</s></p>
+<p t="470634" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​No, I&#39;m kidding.​ ​</s><s p="1">​</s></p>
+<p t="473467" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-I&#39;m crashing this. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-Please no.​ ​</s><s p="1">​</s></p>
+<p t="473467" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-I&#39;m crashing this. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-Please no.​ ​</s><s p="1">​</s></p>
+<p t="475501" d="1532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="21">​ ​Karl!​ ​</s><s p="1">​</s></p>
+<p t="475501" d="1532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="22">​ ​Karl!​ ​</s><s p="1">​</s></p>
+<p t="477367" d="867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, my God.​ ​</s><s p="1">​</s></p>
+<p t="477367" d="867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, my God.​ ​</s><s p="1">​</s></p>
+<p t="478234" d="2033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="21">​ ​We&#39;re doing donuts in a million dollar car.​ ​</s><s p="1">​</s></p>
+<p t="478234" d="2033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="22">​ ​We&#39;re doing donuts in a million dollar car.​ ​</s><s p="1">​</s></p>
+<p t="482501" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="21">​ ​While the gang is whizzing ​ ​</s><s p="1">​
+​</s><s p="21">​ ​around the track,​ ​</s><s p="1">​</s></p>
+<p t="482501" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="22">​ ​While the gang is whizzing ​ ​</s><s p="1">​
+​</s><s p="22">​ ​around the track,​ ​</s><s p="1">​</s></p>
+<p t="484234" d="1500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​I want to show you the next car.​ ​</s><s p="1">​</s></p>
+<p t="484234" d="1500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​I want to show you the next car.​ ​</s><s p="1">​</s></p>
+<p t="485734" d="3234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​This $2 million limited edition ​ ​</s><s p="1">​
+​</s><s p="9">​ ​hydrogen car.​ ​</s><s p="1">​</s></p>
+<p t="485734" d="3234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​This $2 million limited edition ​ ​</s><s p="1">​
+​</s><s p="10">​ ​hydrogen car.​ ​</s><s p="1">​</s></p>
+<p t="488968" d="566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="488968" d="566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​No joke.​ ​</s><s p="1">​</s></p>
+<p t="489534" d="3400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="9">​ ​This car is completely powered ​ ​</s><s p="1">​
+​</s><s p="9">​ ​by hydrogen and actually exhales​ ​</s><s p="1">​</s></p>
+<p t="489534" d="3400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="10">​ ​This car is completely powered ​ ​</s><s p="1">​
+​</s><s p="10">​ ​by hydrogen and actually exhales​ ​</s><s p="1">​</s></p>
+<p t="492934" d="3166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​drinkable water as exhaust, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the car still being developed.​ ​</s><s p="1">​</s></p>
+<p t="492934" d="3166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​drinkable water as exhaust, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the car still being developed.​ ​</s><s p="1">​</s></p>
+<p t="496100" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​So this is just a prototype.​ ​</s><s p="1">​</s></p>
+<p t="496100" d="1667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​So this is just a prototype.​ ​</s><s p="1">​</s></p>
+<p t="497767" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I don&#39;t think I&#39;ve ever struggled ​ ​</s><s p="1">​
+​</s><s p="3">​ ​this much to get in a car.​ ​</s><s p="1">​</s></p>
+<p t="497767" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I don&#39;t think I&#39;ve ever struggled ​ ​</s><s p="1">​
+​</s><s p="4">​ ​this much to get in a car.​ ​</s><s p="1">​</s></p>
+<p t="501601" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Let&#39;s see how she closes.​ ​</s><s p="1">​</s></p>
+<p t="501601" d="1633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Let&#39;s see how she closes.​ ​</s><s p="1">​</s></p>
+<p t="508868" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​First impressions, door kind of slow.​ ​</s><s p="1">​</s></p>
+<p t="508868" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​First impressions, door kind of slow.​ ​</s><s p="1">​</s></p>
+<p t="510801" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We&#39;re about to turn on the road.​ ​</s><s p="1">​</s></p>
+<p t="510801" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We&#39;re about to turn on the road.​ ​</s><s p="1">​</s></p>
+<p t="511968" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This is a really big deal ​ ​</s><s p="1">​
+​</s><s p="3">​ ​because​ ​</s><s p="1">​</s></p>
+<p t="511968" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This is a really big deal ​ ​</s><s p="1">​
+​</s><s p="4">​ ​because​ ​</s><s p="1">​</s></p>
+<p t="513634" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​this car has never been driven ​ ​</s><s p="1">​
+​</s><s p="3">​ ​on a road before.​ ​</s><s p="1">​</s></p>
+<p t="513634" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​this car has never been driven ​ ​</s><s p="1">​
+​</s><s p="4">​ ​on a road before.​ ​</s><s p="1">​</s></p>
+<p t="515901" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, you should have told me before ​ ​</s><s p="1">​
+​</s><s p="3">​ ​I got here.​ ​</s><s p="1">​</s></p>
+<p t="515901" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, you should have told me before ​ ​</s><s p="1">​
+​</s><s p="4">​ ​I got here.​ ​</s><s p="1">​</s></p>
+<p t="517467" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​They built this car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​as a proof of concept.​ ​</s><s p="1">​</s></p>
+<p t="517467" d="1800" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​They built this car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​as a proof of concept.​ ​</s><s p="1">​</s></p>
+<p t="519267" d="2500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​So driving on the road ​ ​</s><s p="1">​
+​</s><s p="15">​ ​is questionable.​ ​</s><s p="1">​</s></p>
+<p t="519267" d="2500" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​So driving on the road ​ ​</s><s p="1">​
+​</s><s p="16">​ ​is questionable.​ ​</s><s p="1">​</s></p>
+<p t="521801" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Well, look at that lady over there.​ ​</s><s p="1">​</s></p>
+<p t="521801" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Well, look at that lady over there.​ ​</s><s p="1">​</s></p>
+<p t="523334" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That person over ​ ​</s><s p="1">​
+​</s><s p="3">​ ​there is literally filming our car.​ ​</s><s p="1">​</s></p>
+<p t="523334" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That person over ​ ​</s><s p="1">​
+​</s><s p="4">​ ​there is literally filming our car.​ ​</s><s p="1">​</s></p>
+<p t="526234" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Also, I&#39;d wear a seat belt, ​ ​</s><s p="1">​
+​</s><s p="15">​ ​but it doesn&#39;t have​ ​</s><s p="1">​</s></p>
+<p t="526234" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Also, I&#39;d wear a seat belt, ​ ​</s><s p="1">​
+​</s><s p="16">​ ​but it doesn&#39;t have​ ​</s><s p="1">​</s></p>
+<p t="528334" d="1333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​they haven&#39;t gone that far yet.​ ​</s><s p="1">​</s></p>
+<p t="528334" d="1333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​they haven&#39;t gone that far yet.​ ​</s><s p="1">​</s></p>
+<p t="530167" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, snap.​ ​</s><s p="1">​</s></p>
+<p t="530167" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, snap.​ ​</s><s p="1">​</s></p>
+<p t="531567" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-Bro, this boy gets up there. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-Yeah.​ ​</s><s p="1">​</s></p>
+<p t="531567" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-Bro, this boy gets up there. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-Yeah.​ ​</s><s p="1">​</s></p>
+<p t="533767" d="3433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Even though this car uses hydrogen ​ ​</s><s p="1">​
+​</s><s p="3">​ ​instead of gas, it still has a range​ ​</s><s p="1">​</s></p>
+<p t="533767" d="3433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Even though this car uses hydrogen ​ ​</s><s p="1">​
+​</s><s p="4">​ ​instead of gas, it still has a range​ ​</s><s p="1">​</s></p>
+<p t="537200" d="4900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​of over a thousand miles, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​top speed of 221 miles per hour.​ ​</s><s p="1">​</s></p>
+<p t="537200" d="4900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​of over a thousand miles, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​top speed of 221 miles per hour.​ ​</s><s p="1">​</s></p>
+<p t="542267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Listen to that engine.​ ​</s><s p="1">​</s></p>
+<p t="542267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Listen to that engine.​ ​</s><s p="1">​</s></p>
+<p t="543701" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​What?​ ​</s><s p="1">​</s></p>
+<p t="543701" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​What?​ ​</s><s p="1">​</s></p>
+<p t="544901" d="900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That&#39;s such a cool sound.​ ​</s><s p="1">​</s></p>
+<p t="544901" d="900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That&#39;s such a cool sound.​ ​</s><s p="1">​</s></p>
+<p t="546000" d="1801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​There&#39;s a lot of cars around me ​ ​</s><s p="1">​
+​</s><s p="3">​ ​and everywhere.​ ​</s><s p="1">​</s></p>
+<p t="546000" d="1801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​There&#39;s a lot of cars around me ​ ​</s><s p="1">​
+​</s><s p="4">​ ​and everywhere.​ ​</s><s p="1">​</s></p>
+<p t="547801" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Get away from my $2 million car.​ ​</s><s p="1">​</s></p>
+<p t="547801" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Get away from my $2 million car.​ ​</s><s p="1">​</s></p>
+<p t="549901" d="1166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;ll see you at the next car.​ ​</s><s p="1">​</s></p>
+<p t="549901" d="1166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;ll see you at the next car.​ ​</s><s p="1">​</s></p>
+<p t="551067" d="4634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Back at the racetrack, we have ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the most exotic and powerful car yet.​ ​</s><s p="1">​</s></p>
+<p t="551067" d="4634" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Back at the racetrack, we have ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the most exotic and powerful car yet.​ ​</s><s p="1">​</s></p>
+<p t="555701" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Costing $10 million.​ ​</s><s p="1">​</s></p>
+<p t="555701" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Costing $10 million.​ ​</s><s p="1">​</s></p>
+<p t="557701" d="3699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​This Koenigsegg Vader ​ ​</s><s p="1">​
+​</s><s p="15">​ ​is the only one in existence.​ ​</s><s p="1">​</s></p>
+<p t="557701" d="3699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​This Koenigsegg Vader ​ ​</s><s p="1">​
+​</s><s p="16">​ ​is the only one in existence.​ ​</s><s p="1">​</s></p>
+<p t="561400" d="2733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​So this is the world&#39;s ​ ​</s><s p="1">​
+​</s><s p="3">​ ​fastest production car.​ ​</s><s p="1">​</s></p>
+<p t="561400" d="2733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​So this is the world&#39;s ​ ​</s><s p="1">​
+​</s><s p="4">​ ​fastest production car.​ ​</s><s p="1">​</s></p>
+<p t="564167" d="966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, my gosh.​ ​</s><s p="1">​</s></p>
+<p t="564167" d="966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, my gosh.​ ​</s><s p="1">​</s></p>
+<p t="565133" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And with literal crushed ​ ​</s><s p="1">​
+​</s><s p="3">​ ​diamonds in the paint,​ ​</s><s p="1">​</s></p>
+<p t="565133" d="3067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And with literal crushed ​ ​</s><s p="1">​
+​</s><s p="4">​ ​diamonds in the paint,​ ​</s><s p="1">​</s></p>
+<p t="568234" d="2734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​the insurance companies ​ ​</s><s p="1">​
+​</s><s p="3">​ ​only let the owner drive.​ ​</s><s p="1">​</s></p>
+<p t="568234" d="2734" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​the insurance companies ​ ​</s><s p="1">​
+​</s><s p="4">​ ​only let the owner drive.​ ​</s><s p="1">​</s></p>
+<p t="571133" d="3768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That&#39;s probably the coolest door ​ ​</s><s p="1">​
+​</s><s p="3">​ ​I&#39;ve ever seen in my life.​ ​</s><s p="1">​</s></p>
+<p t="571133" d="3768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That&#39;s probably the coolest door ​ ​</s><s p="1">​
+​</s><s p="4">​ ​I&#39;ve ever seen in my life.​ ​</s><s p="1">​</s></p>
+<p t="575300" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​You&#39;re crazy.​ ​</s><s p="1">​</s></p>
+<p t="575300" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​You&#39;re crazy.​ ​</s><s p="1">​</s></p>
+<p t="576334" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​-All right, let&#39;s do this. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-Let&#39;s do it.​ ​</s><s p="1">​</s></p>
+<p t="576334" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​-All right, let&#39;s do this. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-Let&#39;s do it.​ ​</s><s p="1">​</s></p>
+<p t="577701" d="1432" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Fun fact, I made ​ ​</s><s p="1">​
+​</s><s p="15">​ ​a grown man cry.​ ​</s><s p="1">​</s></p>
+<p t="577701" d="1432" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Fun fact, I made ​ ​</s><s p="1">​
+​</s><s p="16">​ ​a grown man cry.​ ​</s><s p="1">​</s></p>
+<p t="579167" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-Really? ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-Yeah. I scared the crap out of him.​ ​</s><s p="1">​</s></p>
+<p t="579167" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-Really? ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-Yeah. I scared the crap out of him.​ ​</s><s p="1">​</s></p>
+<p t="582033" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m going to put my head back ​ ​</s><s p="1">​
+​</s><s p="3">​ ​so I don&#39;t get whiplash.​ ​</s><s p="1">​</s></p>
+<p t="582033" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m going to put my head back ​ ​</s><s p="1">​
+​</s><s p="4">​ ​so I don&#39;t get whiplash.​ ​</s><s p="1">​</s></p>
+<p t="587033" d="1801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​How was it so fast?​ ​</s><s p="1">​</s></p>
+<p t="587033" d="1801" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​How was it so fast?​ ​</s><s p="1">​</s></p>
+<p t="590534" d="1599" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;ve never...​ ​</s><s p="1">​</s></p>
+<p t="590534" d="1599" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;ve never...​ ​</s><s p="1">​</s></p>
+<p t="592367" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Watch out for that.​ ​</s><s p="1">​</s></p>
+<p t="592367" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Watch out for that.​ ​</s><s p="1">​</s></p>
+<p t="593534" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The reason this car is one of the ​ ​</s><s p="1">​
+​</s><s p="3">​ ​fastest​ ​</s><s p="1">​</s></p>
+<p t="593534" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The reason this car is one of the ​ ​</s><s p="1">​
+​</s><s p="4">​ ​fastest​ ​</s><s p="1">​</s></p>
+<p t="595567" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​on the planet is because of its twin ​ ​</s><s p="1">​
+​</s><s p="3">​ ​turbocharged V8 engine​ ​</s><s p="1">​</s></p>
+<p t="595567" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​on the planet is because of its twin ​ ​</s><s p="1">​
+​</s><s p="4">​ ​turbocharged V8 engine​ ​</s><s p="1">​</s></p>
+<p t="598968" d="3866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​and the fact that its entire frame ​ ​</s><s p="1">​
+​</s><s p="3">​ ​is made out of air core carbon fiber,​ ​</s><s p="1">​</s></p>
+<p t="598968" d="3866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​and the fact that its entire frame ​ ​</s><s p="1">​
+​</s><s p="4">​ ​is made out of air core carbon fiber,​ ​</s><s p="1">​</s></p>
+<p t="602834" d="3266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​making it weigh almost 500 pounds less ​ ​</s><s p="1">​
+​</s><s p="3">​ ​than a Lamborghini.​ ​</s><s p="1">​</s></p>
+<p t="602834" d="3266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​making it weigh almost 500 pounds less ​ ​</s><s p="1">​
+​</s><s p="4">​ ​than a Lamborghini.​ ​</s><s p="1">​</s></p>
+<p t="606100" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;ve never witnessed ​ ​</s><s p="1">​
+​</s><s p="3">​ ​anything like this before.​ ​</s><s p="1">​</s></p>
+<p t="606100" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;ve never witnessed ​ ​</s><s p="1">​
+​</s><s p="4">​ ​anything like this before.​ ​</s><s p="1">​</s></p>
+<p t="616367" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s like riding in a roller coaster.​ ​</s><s p="1">​</s></p>
+<p t="616367" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s like riding in a roller coaster.​ ​</s><s p="1">​</s></p>
+<p t="618033" d="1935" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​My heart is pounding.​ ​</s><s p="1">​</s></p>
+<p t="618033" d="1935" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​My heart is pounding.​ ​</s><s p="1">​</s></p>
+<p t="619968" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Well, that was awesome. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Thank you, sir.​ ​</s><s p="1">​</s></p>
+<p t="619968" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Well, that was awesome. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Thank you, sir.​ ​</s><s p="1">​</s></p>
+<p t="621501" d="566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Thank you.​ ​</s><s p="1">​</s></p>
+<p t="621501" d="566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Thank you.​ ​</s><s p="1">​</s></p>
+<p t="622067" d="1233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s go hang out with Jay Leno​ ​</s><s p="1">​</s></p>
+<p t="622067" d="1233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s go hang out with Jay Leno​ ​</s><s p="1">​</s></p>
+<p t="623300" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​and see what a $20 million car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​looks like.​ ​</s><s p="1">​</s></p>
+<p t="623300" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​and see what a $20 million car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​looks like.​ ​</s><s p="1">​</s></p>
+<p t="627167" d="667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="23">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="627167" d="667" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="24">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="627834" d="3333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="23">​ ​Jay Leno was the king of The Tonight ​ ​</s><s p="1">​
+​</s><s p="23">​ ​Show for over 20 years.​ ​</s><s p="1">​</s></p>
+<p t="627834" d="3333" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="24">​ ​Jay Leno was the king of The Tonight ​ ​</s><s p="1">​
+​</s><s p="24">​ ​Show for over 20 years.​ ​</s><s p="1">​</s></p>
+<p t="631200" d="2467" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="23">​ ​Today, he&#39;s the proud owner ​ ​</s><s p="1">​
+​</s><s p="23">​ ​of one of the most impressive​ ​</s><s p="1">​</s></p>
+<p t="631200" d="2467" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="24">​ ​Today, he&#39;s the proud owner ​ ​</s><s p="1">​
+​</s><s p="24">​ ​of one of the most impressive​ ​</s><s p="1">​</s></p>
+<p t="633667" d="4733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​car collections in the world, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​including this $20 million McLaren F1.​ ​</s><s p="1">​</s></p>
+<p t="633667" d="4733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​car collections in the world, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​including this $20 million McLaren F1.​ ​</s><s p="1">​</s></p>
+<p t="639567" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Did it just start doing that ​ ​</s><s p="1">​
+​</s><s p="15">​ ​because of you?​ ​</s><s p="1">​</s></p>
+<p t="639567" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Did it just start doing that ​ ​</s><s p="1">​
+​</s><s p="16">​ ​because of you?​ ​</s><s p="1">​</s></p>
+<p t="641267" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​It&#39;s high tech.​ ​</s><s p="1">​</s></p>
+<p t="641267" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​It&#39;s high tech.​ ​</s><s p="1">​</s></p>
+<p t="642901" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Robbers don&#39;t try that.​ ​</s><s p="1">​</s></p>
+<p t="642901" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Robbers don&#39;t try that.​ ​</s><s p="1">​</s></p>
+<p t="643934" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And what makes it so valuable?​ ​</s><s p="1">​</s></p>
+<p t="643934" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And what makes it so valuable?​ ​</s><s p="1">​</s></p>
+<p t="645667" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s a V12 carbon fiber.​ ​</s><s p="1">​</s></p>
+<p t="645667" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s a V12 carbon fiber.​ ​</s><s p="1">​</s></p>
+<p t="647667" d="1301" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s extremely light.​ ​</s><s p="1">​</s></p>
+<p t="647667" d="1301" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s extremely light.​ ​</s><s p="1">​</s></p>
+<p t="648968" d="2366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And it was 241 miles an hour,​ ​</s><s p="1">​</s></p>
+<p t="648968" d="2366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And it was 241 miles an hour,​ ​</s><s p="1">​</s></p>
+<p t="651334" d="3766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​which is still the fastest for a non ​ ​</s><s p="1">​
+​</s><s p="3">​ ​turbocharged non supercharged car.​ ​</s><s p="1">​</s></p>
+<p t="651334" d="3766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​which is still the fastest for a non ​ ​</s><s p="1">​
+​</s><s p="4">​ ​turbocharged non supercharged car.​ ​</s><s p="1">​</s></p>
+<p t="655234" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;ll show you something kind of cool.​ ​</s><s p="1">​</s></p>
+<p t="655234" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;ll show you something kind of cool.​ ​</s><s p="1">​</s></p>
+<p t="656534" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It got three seats, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​as you can see.​ ​</s><s p="1">​</s></p>
+<p t="656534" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It got three seats, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​as you can see.​ ​</s><s p="1">​</s></p>
+<p t="658734" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The car is about 2300 pounds.​ ​</s><s p="1">​</s></p>
+<p t="658734" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The car is about 2300 pounds.​ ​</s><s p="1">​</s></p>
+<p t="661200" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Your most modern cars are 4,000.​ ​</s><s p="1">​</s></p>
+<p t="661200" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Your most modern cars are 4,000.​ ​</s><s p="1">​</s></p>
+<p t="663334" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s more comparable ​ ​</s><s p="1">​
+​</s><s p="3">​ ​to Nolan&#39;s mom than another car.​ ​</s><s p="1">​</s></p>
+<p t="663334" d="2167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s more comparable ​ ​</s><s p="1">​
+​</s><s p="4">​ ​to Nolan&#39;s mom than another car.​ ​</s><s p="1">​</s></p>
+<p t="665534" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That&#39;s right. Exactly.​ ​</s><s p="1">​</s></p>
+<p t="665534" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That&#39;s right. Exactly.​ ​</s><s p="1">​</s></p>
+<p t="666801" d="4366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​In fact, Nolan&#39;s mom was really ​ ​</s><s p="1">​
+​</s><s p="3">​ ​the one they used as the benchmark.​ ​</s><s p="1">​</s></p>
+<p t="666801" d="4366" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​In fact, Nolan&#39;s mom was really ​ ​</s><s p="1">​
+​</s><s p="4">​ ​the one they used as the benchmark.​ ​</s><s p="1">​</s></p>
+<p t="671801" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-You guys want to go for a ride? ​ ​</s><s p="1">​
+​</s><s p="23">​ ​-Of course.​ ​</s><s p="1">​</s></p>
+<p t="671801" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-You guys want to go for a ride? ​ ​</s><s p="1">​
+​</s><s p="24">​ ​-Of course.​ ​</s><s p="1">​</s></p>
+<p t="673801" d="2766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​There&#39;s no way to get in that middle seat. ​ ​</s><s p="1">​
+​</s><s p="13">​ ​It&#39;s actually uncomfortable.​ ​</s><s p="1">​</s></p>
+<p t="673801" d="2766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​There&#39;s no way to get in that middle seat. ​ ​</s><s p="1">​
+​</s><s p="14">​ ​It&#39;s actually uncomfortable.​ ​</s><s p="1">​</s></p>
+<p t="676701" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Oh, it&#39;s not bad.​ ​</s><s p="1">​</s></p>
+<p t="676701" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Oh, it&#39;s not bad.​ ​</s><s p="1">​</s></p>
+<p t="677901" d="2933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​Yeah, it&#39;s not bad. Did not look bad ​ ​</s><s p="1">​
+​</s><s p="13">​ ​at all. It&#39;s comfortable.​ ​</s><s p="1">​</s></p>
+<p t="677901" d="2933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​Yeah, it&#39;s not bad. Did not look bad ​ ​</s><s p="1">​
+​</s><s p="14">​ ​at all. It&#39;s comfortable.​ ​</s><s p="1">​</s></p>
+<p t="687133" d="2401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​It&#39;s oddly comfortable ​ ​</s><s p="1">​
+​</s><s p="13">​ ​to have three seats like this.​ ​</s><s p="1">​</s></p>
+<p t="687133" d="2401" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​It&#39;s oddly comfortable ​ ​</s><s p="1">​
+​</s><s p="14">​ ​to have three seats like this.​ ​</s><s p="1">​</s></p>
+<p t="689667" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Yeah, it is pretty interesting,​ ​</s><s p="1">​</s></p>
+<p t="689667" d="1700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Yeah, it is pretty interesting,​ ​</s><s p="1">​</s></p>
+<p t="691367" d="2033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Normally this is where ​ ​</s><s p="1">​
+​</s><s p="25">​ ​the wheel would be.​ ​</s><s p="1">​</s></p>
+<p t="691367" d="2033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Normally this is where ​ ​</s><s p="1">​
+​</s><s p="26">​ ​the wheel would be.​ ​</s><s p="1">​</s></p>
+<p t="693501" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Or if you were in England.​ ​</s><s p="1">​</s></p>
+<p t="693501" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Or if you were in England.​ ​</s><s p="1">​</s></p>
+<p t="694501" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​this is where the steering wheel would be.​ ​</s><s p="1">​</s></p>
+<p t="694501" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​this is where the steering wheel would be.​ ​</s><s p="1">​</s></p>
+<p t="696234" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​You can be in England, ​ ​</s><s p="1">​
+​</s><s p="25">​ ​you can be in America.​ ​</s><s p="1">​</s></p>
+<p t="696234" d="2100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​You can be in England, ​ ​</s><s p="1">​
+​</s><s p="26">​ ​you can be in America.​ ​</s><s p="1">​</s></p>
+<p t="698968" d="1232" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​How long have you had this car?​ ​</s><s p="1">​</s></p>
+<p t="698968" d="1232" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​How long have you had this car?​ ​</s><s p="1">​</s></p>
+<p t="700200" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​-What year were you born? ​ ​</s><s p="1">​
+​</s><s p="25">​ ​-1998.​ ​</s><s p="1">​</s></p>
+<p t="700200" d="2067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​-What year were you born? ​ ​</s><s p="1">​
+​</s><s p="26">​ ​-1998.​ ​</s><s p="1">​</s></p>
+<p t="702267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Actually, I got this in 98.​ ​</s><s p="1">​</s></p>
+<p t="702267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Actually, I got this in 98.​ ​</s><s p="1">​</s></p>
+<p t="703567" d="3566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​I popped out of my mom and he&#39;s like, ​ ​</s><s p="1">​
+​</s><s p="25">​ ​&quot;let&#39;s celebrate by buying this car.&quot;​ ​</s><s p="1">​</s></p>
+<p t="703567" d="3566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​I popped out of my mom and he&#39;s like, ​ ​</s><s p="1">​
+​</s><s p="26">​ ​&quot;let&#39;s celebrate by buying this car.&quot;​ ​</s><s p="1">​</s></p>
+<p t="707167" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Here&#39;s the second part.​ ​</s><s p="1">​</s></p>
+<p t="707167" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Here&#39;s the second part.​ ​</s><s p="1">​</s></p>
+<p t="708100" d="1134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​I&#39;m your dad.​ ​</s><s p="1">​</s></p>
+<p t="708100" d="1134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​I&#39;m your dad.​ ​</s><s p="1">​</s></p>
+<p t="711400" d="1034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Interesting.​ ​</s><s p="1">​</s></p>
+<p t="711400" d="1034" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Interesting.​ ​</s><s p="1">​</s></p>
+<p t="712601" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​How much did you buy this for?​ ​</s><s p="1">​</s></p>
+<p t="712601" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​How much did you buy this for?​ ​</s><s p="1">​</s></p>
+<p t="713868" d="2532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​I paid 800,000, and I bought it.​ ​</s><s p="1">​</s></p>
+<p t="713868" d="2532" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​I paid 800,000, and I bought it.​ ​</s><s p="1">​</s></p>
+<p t="716400" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​And people thought ​ ​</s><s p="1">​
+​</s><s p="25">​ ​you&#39;ll never get your money back.​ ​</s><s p="1">​</s></p>
+<p t="716400" d="2000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​And people thought ​ ​</s><s p="1">​
+​</s><s p="26">​ ​you&#39;ll never get your money back.​ ​</s><s p="1">​</s></p>
+<p t="718400" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​But then it just went up ​ ​</s><s p="1">​
+​</s><s p="25">​ ​and up and up and up.​ ​</s><s p="1">​</s></p>
+<p t="718400" d="2134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​But then it just went up ​ ​</s><s p="1">​
+​</s><s p="26">​ ​and up and up and up.​ ​</s><s p="1">​</s></p>
+<p t="720534" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​And now there&#39;s $20 million, ​ ​</s><s p="1">​
+​</s><s p="25">​ ​you know?​ ​</s><s p="1">​</s></p>
+<p t="720534" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​And now there&#39;s $20 million, ​ ​</s><s p="1">​
+​</s><s p="26">​ ​you know?​ ​</s><s p="1">​</s></p>
+<p t="722367" d="1134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​So it&#39;s crazy.​ ​</s><s p="1">​</s></p>
+<p t="722367" d="1134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​So it&#39;s crazy.​ ​</s><s p="1">​</s></p>
+<p t="723534" d="3100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This car basically made you ​ ​</s><s p="1">​
+​</s><s p="3">​ ​a millon dollars a year every year.​ ​</s><s p="1">​</s></p>
+<p t="723534" d="3100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This car basically made you ​ ​</s><s p="1">​
+​</s><s p="4">​ ​a millon dollars a year every year.​ ​</s><s p="1">​</s></p>
+<p t="726634" d="1867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I guess that&#39;s fair to say.​ ​</s><s p="1">​</s></p>
+<p t="726634" d="1867" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I guess that&#39;s fair to say.​ ​</s><s p="1">​</s></p>
+<p t="728501" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Karl, what do you think of the car?​ ​</s><s p="1">​</s></p>
+<p t="728501" d="1733" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Karl, what do you think of the car?​ ​</s><s p="1">​</s></p>
+<p t="732901" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​I like it.​ ​</s><s p="1">​</s></p>
+<p t="732901" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​I like it.​ ​</s><s p="1">​</s></p>
+<p t="733901" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​What&#39;s stopping you from buying one​ ​</s><s p="1">​</s></p>
+<p t="733901" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​What&#39;s stopping you from buying one​ ​</s><s p="1">​</s></p>
+<p t="736834" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​$19.9 million?​ ​</s><s p="1">​</s></p>
+<p t="736834" d="2433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​$19.9 million?​ ​</s><s p="1">​</s></p>
+<p t="739267" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Have you ever had a wreck?​ ​</s><s p="1">​</s></p>
+<p t="739267" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Have you ever had a wreck?​ ​</s><s p="1">​</s></p>
+<p t="740367" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Oh, yeah.​ ​</s><s p="1">​</s></p>
+<p t="740367" d="1067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Oh, yeah.​ ​</s><s p="1">​</s></p>
+<p t="741434" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;ve had a lot of wrecks.​ ​</s><s p="1">​</s></p>
+<p t="741434" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;ve had a lot of wrecks.​ ​</s><s p="1">​</s></p>
+<p t="744367" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Thank you so much for taking us out.​ ​</s><s p="1">​</s></p>
+<p t="744367" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Thank you so much for taking us out.​ ​</s><s p="1">​</s></p>
+<p t="745834" d="1166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​No problem, guys.​ ​</s><s p="1">​</s></p>
+<p t="745834" d="1166" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​No problem, guys.​ ​</s><s p="1">​</s></p>
+<p t="747033" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​That was perfect.​ ​</s><s p="1">​</s></p>
+<p t="747033" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​That was perfect.​ ​</s><s p="1">​</s></p>
+<p t="748100" d="4768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​These next two cars are so expensive, ​ ​</s><s p="1">​
+​</s><s p="25">​ ​that they are literally locked away in a museum​ ​</s><s p="1">​</s></p>
+<p t="748100" d="4768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​These next two cars are so expensive, ​ ​</s><s p="1">​
+​</s><s p="26">​ ​that they are literally locked away in a museum​ ​</s><s p="1">​</s></p>
+<p t="752868" d="699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​at all times.​ ​</s><s p="1">​</s></p>
+<p t="752868" d="699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​at all times.​ ​</s><s p="1">​</s></p>
+<p t="753567" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Combined, they cost $80 million.​ ​</s><s p="1">​</s></p>
+<p t="753567" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Combined, they cost $80 million.​ ​</s><s p="1">​</s></p>
+<p t="756400" d="3700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​And somehow we convinced the museum ​ ​</s><s p="1">​
+​</s><s p="25">​ ​to give us the cars.​ ​</s><s p="1">​</s></p>
+<p t="756400" d="3700" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​And somehow we convinced the museum ​ ​</s><s p="1">​
+​</s><s p="26">​ ​to give us the cars.​ ​</s><s p="1">​</s></p>
+<p t="760100" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Looking good.​ ​</s><s p="1">​</s></p>
+<p t="760100" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Looking good.​ ​</s><s p="1">​</s></p>
+<p t="761267" d="2400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And this is where the video gets ​ ​</s><s p="1">​
+​</s><s p="3">​ ​literally mind blowing.​ ​</s><s p="1">​</s></p>
+<p t="761267" d="2400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And this is where the video gets ​ ​</s><s p="1">​
+​</s><s p="4">​ ​literally mind blowing.​ ​</s><s p="1">​</s></p>
+<p t="763767" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Crank this bad boy up.​ ​</s><s p="1">​</s></p>
+<p t="763767" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Crank this bad boy up.​ ​</s><s p="1">​</s></p>
+<p t="766334" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​That&#39;s 30 miller.​ ​</s><s p="1">​</s></p>
+<p t="766334" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​That&#39;s 30 miller.​ ​</s><s p="1">​</s></p>
+<p t="767634" d="1433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Let&#39;s hear that 50 miller.​ ​</s><s p="1">​</s></p>
+<p t="767634" d="1433" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Let&#39;s hear that 50 miller.​ ​</s><s p="1">​</s></p>
+<p t="770634" d="2466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​Not going to lie. I like the ​ ​</s><s p="1">​
+​</s><s p="25">​ ​$50 miller one a little better.​ ​</s><s p="1">​</s></p>
+<p t="770634" d="2466" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​Not going to lie. I like the ​ ​</s><s p="1">​
+​</s><s p="26">​ ​$50 miller one a little better.​ ​</s><s p="1">​</s></p>
+<p t="773100" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​So I jumped in the $50 million car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​with Donut Media and Chandler​ ​</s><s p="1">​</s></p>
+<p t="773100" d="3367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​So I jumped in the $50 million car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​with Donut Media and Chandler​ ​</s><s p="1">​</s></p>
+<p t="776467" d="3566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​got in the $30 million car ​ ​</s><s p="1">​
+​</s><s p="25">​ ​with Beau Boeckmann, the car legend.​ ​</s><s p="1">​</s></p>
+<p t="776467" d="3566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​got in the $30 million car ​ ​</s><s p="1">​
+​</s><s p="26">​ ​with Beau Boeckmann, the car legend.​ ​</s><s p="1">​</s></p>
+<p t="780100" d="1334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​You ready?​ ​</s><s p="1">​</s></p>
+<p t="780100" d="1334" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​You ready?​ ​</s><s p="1">​</s></p>
+<p t="781434" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​-Are you ready? ​ ​</s><s p="1">​
+​</s><s p="3">​ ​-I&#39;m ready.​ ​</s><s p="1">​</s></p>
+<p t="781434" d="1167" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​-Are you ready? ​ ​</s><s p="1">​
+​</s><s p="4">​ ​-I&#39;m ready.​ ​</s><s p="1">​</s></p>
+<p t="782634" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Let&#39;s do this.​ ​</s><s p="1">​</s></p>
+<p t="782634" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Let&#39;s do this.​ ​</s><s p="1">​</s></p>
+<p t="783667" d="2533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The reason the car ​ ​</s><s p="1">​
+​</s><s p="3">​ ​that Chandler&#39;s in is so expensive​ ​</s><s p="1">​</s></p>
+<p t="783667" d="2533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The reason the car ​ ​</s><s p="1">​
+​</s><s p="4">​ ​that Chandler&#39;s in is so expensive​ ​</s><s p="1">​</s></p>
+<p t="786200" d="2768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​is because it was specifically ​ ​</s><s p="1">​
+​</s><s p="15">​ ​constructed as a gift​ ​</s><s p="1">​</s></p>
+<p t="786200" d="2768" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​is because it was specifically ​ ​</s><s p="1">​
+​</s><s p="16">​ ​constructed as a gift​ ​</s><s p="1">​</s></p>
+<p t="788968" d="2633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​from the founder of Ferrari ​ ​</s><s p="1">​
+​</s><s p="15">​ ​to the founder of Ford.​ ​</s><s p="1">​</s></p>
+<p t="788968" d="2633" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​from the founder of Ferrari ​ ​</s><s p="1">​
+​</s><s p="16">​ ​to the founder of Ford.​ ​</s><s p="1">​</s></p>
+<p t="791634" d="3666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​This is the only version of this ​ ​</s><s p="1">​
+​</s><s p="25">​ ​Ferrari ever made in human history.​ ​</s><s p="1">​</s></p>
+<p t="791634" d="3666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​This is the only version of this ​ ​</s><s p="1">​
+​</s><s p="26">​ ​Ferrari ever made in human history.​ ​</s><s p="1">​</s></p>
+<p t="795300" d="1301" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="15">​ ​Watch out for this bump.​ ​</s><s p="1">​</s></p>
+<p t="795300" d="1301" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="16">​ ​Watch out for this bump.​ ​</s><s p="1">​</s></p>
+<p t="796601" d="766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="25">​ ​No scraping.​ ​</s><s p="1">​</s></p>
+<p t="796601" d="766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="26">​ ​No scraping.​ ​</s><s p="1">​</s></p>
+<p t="797367" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​You don&#39;t really notice ​ ​</s><s p="1">​
+​</s><s p="3">​ ​how, like, crappy​ ​</s><s p="1">​</s></p>
+<p t="797367" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​You don&#39;t really notice ​ ​</s><s p="1">​
+​</s><s p="4">​ ​how, like, crappy​ ​</s><s p="1">​</s></p>
+<p t="799200" d="3534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​the street is until you drive ​ ​</s><s p="1">​
+​</s><s p="3">​ ​something that&#39;s $50 million.​ ​</s><s p="1">​</s></p>
+<p t="799200" d="3534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​the street is until you drive ​ ​</s><s p="1">​
+​</s><s p="4">​ ​something that&#39;s $50 million.​ ​</s><s p="1">​</s></p>
+<p t="802801" d="3766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​The car we&#39;re in is the most ​ ​</s><s p="1">​
+​</s><s p="3">​ ​expensive Jaguar in existence.​ ​</s><s p="1">​</s></p>
+<p t="802801" d="3766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​The car we&#39;re in is the most ​ ​</s><s p="1">​
+​</s><s p="4">​ ​expensive Jaguar in existence.​ ​</s><s p="1">​</s></p>
+<p t="806567" d="3200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It was the legendary actor ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Steve McQueen&#39;s daily driver,​ ​</s><s p="1">​</s></p>
+<p t="806567" d="3200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It was the legendary actor ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Steve McQueen&#39;s daily driver,​ ​</s><s p="1">​</s></p>
+<p t="809767" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​and he got so many speeding tickets ​ ​</s><s p="1">​
+​</s><s p="3">​ ​driving it,​ ​</s><s p="1">​</s></p>
+<p t="809767" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​and he got so many speeding tickets ​ ​</s><s p="1">​
+​</s><s p="4">​ ​driving it,​ ​</s><s p="1">​</s></p>
+<p t="812200" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​his license was actually suspended.​ ​</s><s p="1">​</s></p>
+<p t="812200" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​his license was actually suspended.​ ​</s><s p="1">​</s></p>
+<p t="814601" d="1900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I&#39;m noticing ​ ​</s><s p="1">​
+​</s><s p="3">​ ​every single pothole now.​ ​</s><s p="1">​</s></p>
+<p t="814601" d="1900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I&#39;m noticing ​ ​</s><s p="1">​
+​</s><s p="4">​ ​every single pothole now.​ ​</s><s p="1">​</s></p>
+<p t="816501" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​And because these cars ​ ​</s><s p="1">​
+​</s><s p="3">​ ​are so expensive,​ ​</s><s p="1">​</s></p>
+<p t="816501" d="2200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​And because these cars ​ ​</s><s p="1">​
+​</s><s p="4">​ ​are so expensive,​ ​</s><s p="1">​</s></p>
+<p t="818701" d="3066" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​we have an entire police escort ​ ​</s><s p="1">​
+​</s><s p="3">​ ​dedicated to making​ ​</s><s p="1">​</s></p>
+<p t="818701" d="3066" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​we have an entire police escort ​ ​</s><s p="1">​
+​</s><s p="4">​ ​dedicated to making​ ​</s><s p="1">​</s></p>
+<p t="821767" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​sure nobody comes close to the cars.​ ​</s><s p="1">​</s></p>
+<p t="821767" d="2266" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​sure nobody comes close to the cars.​ ​</s><s p="1">​</s></p>
+<p t="824033" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This is insane.​ ​</s><s p="1">​</s></p>
+<p t="824033" d="1234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This is insane.​ ​</s><s p="1">​</s></p>
+<p t="825267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Hey, get some speed.​ ​</s><s p="1">​</s></p>
+<p t="825267" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Hey, get some speed.​ ​</s><s p="1">​</s></p>
+<p t="826567" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​How&#39;s it drive?​ ​</s><s p="1">​</s></p>
+<p t="826567" d="1267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​How&#39;s it drive?​ ​</s><s p="1">​</s></p>
+<p t="827834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Beautifully.​ ​</s><s p="1">​</s></p>
+<p t="827834" d="1199" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Beautifully.​ ​</s><s p="1">​</s></p>
+<p t="830334" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh my hat!​ ​</s><s p="1">​</s></p>
+<p t="830334" d="1100" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh my hat!​ ​</s><s p="1">​</s></p>
+<p t="831634" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh well.​ ​</s><s p="1">​</s></p>
+<p t="831634" d="1033" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh well.​ ​</s><s p="1">​</s></p>
+<p t="832767" d="3233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​While we were all having fun, ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Beau Boeckmann pushed​ ​</s><s p="1">​</s></p>
+<p t="832767" d="3233" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​While we were all having fun, ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Beau Boeckmann pushed​ ​</s><s p="1">​</s></p>
+<p t="836000" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​this $30 million car to its absolute limit.​ ​</s><s p="1">​</s></p>
+<p t="836000" d="2267" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​this $30 million car to its absolute limit.​ ​</s><s p="1">​</s></p>
+<p t="841367" d="1367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Wait, wait, wait. Hold on.​ ​</s><s p="1">​</s></p>
+<p t="841367" d="1367" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Wait, wait, wait. Hold on.​ ​</s><s p="1">​</s></p>
+<p t="843000" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Hold on. The car is stuck.​ ​</s><s p="1">​</s></p>
+<p t="843000" d="1200" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Hold on. The car is stuck.​ ​</s><s p="1">​</s></p>
+<p t="844234" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Hold on one second.​ ​</s><s p="1">​</s></p>
+<p t="844234" d="933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Hold on one second.​ ​</s><s p="1">​</s></p>
+<p t="845167" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​We hit it too... too hard.​ ​</s><s p="1">​</s></p>
+<p t="845167" d="1833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​We hit it too... too hard.​ ​</s><s p="1">​</s></p>
+<p t="847801" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="27">​ ​The $30 million car stalled.​ ​</s><s p="1">​</s></p>
+<p t="847801" d="1533" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="28">​ ​The $30 million car stalled.​ ​</s><s p="1">​</s></p>
+<p t="849334" d="1900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="27">​ ​We&#39;re going to hop out of ​ ​</s><s p="1">​
+​</s><s p="27">​ ​these things before we break them.​ ​</s><s p="1">​</s></p>
+<p t="849334" d="1900" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="28">​ ​We&#39;re going to hop out of ​ ​</s><s p="1">​
+​</s><s p="28">​ ​these things before we break them.​ ​</s><s p="1">​</s></p>
+<p t="851267" d="3701" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s go drive the $100 ​ ​</s><s p="1">​
+​</s><s p="3">​ ​million world&#39;s first Ferrari.​ ​</s><s p="1">​</s></p>
+<p t="851267" d="3701" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s go drive the $100 ​ ​</s><s p="1">​
+​</s><s p="4">​ ​million world&#39;s first Ferrari.​ ​</s><s p="1">​</s></p>
+<p t="854968" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Most people would imagine ​ ​</s><s p="1">​
+​</s><s p="3">​ ​$100 million car​ ​</s><s p="1">​</s></p>
+<p t="854968" d="3000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Most people would imagine ​ ​</s><s p="1">​
+​</s><s p="4">​ ​$100 million car​ ​</s><s p="1">​</s></p>
+<p t="857968" d="2065" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​would look something more like this.​ ​</s><s p="1">​</s></p>
+<p t="857968" d="2065" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​would look something more like this.​ ​</s><s p="1">​</s></p>
+<p t="860033" d="5134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​But you&#39;d be surprised to find out ​ ​</s><s p="1">​
+​</s><s p="3">​ ​that this is the $100 million car.​ ​</s><s p="1">​</s></p>
+<p t="860033" d="5134" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​But you&#39;d be surprised to find out ​ ​</s><s p="1">​
+​</s><s p="4">​ ​that this is the $100 million car.​ ​</s><s p="1">​</s></p>
+<p t="865200" d="4967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This car is so historic and valuable ​ ​</s><s p="1">​
+​</s><s p="3">​ ​that this museum representative​ ​</s><s p="1">​</s></p>
+<p t="865200" d="4967" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This car is so historic and valuable ​ ​</s><s p="1">​
+​</s><s p="4">​ ​that this museum representative​ ​</s><s p="1">​</s></p>
+<p t="870167" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​is the only person on earth ​ ​</s><s p="1">​
+​</s><s p="3">​ ​allowed to drive it.​ ​</s><s p="1">​</s></p>
+<p t="870167" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​is the only person on earth ​ ​</s><s p="1">​
+​</s><s p="4">​ ​allowed to drive it.​ ​</s><s p="1">​</s></p>
+<p t="872767" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​It&#39;s only allowed to be driven ​ ​</s><s p="1">​
+​</s><s p="3">​ ​on this bridge.​ ​</s><s p="1">​</s></p>
+<p t="872767" d="2600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​It&#39;s only allowed to be driven ​ ​</s><s p="1">​
+​</s><s p="4">​ ​on this bridge.​ ​</s><s p="1">​</s></p>
+<p t="875367" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="27">​ ​We had cops completely closed ​ ​</s><s p="1">​
+​</s><s p="27">​ ​the roads.​ ​</s><s p="1">​</s></p>
+<p t="875367" d="2234" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="28">​ ​We had cops completely closed ​ ​</s><s p="1">​
+​</s><s p="28">​ ​the roads.​ ​</s><s p="1">​</s></p>
+<p t="877601" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="29">​ ​We even had street cleaners ​ ​</s><s p="1">​
+​</s><s p="29">​ ​fill in every pothole​ ​</s><s p="1">​</s></p>
+<p t="877601" d="2833" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="30">​ ​We even had street cleaners ​ ​</s><s p="1">​
+​</s><s p="30">​ ​fill in every pothole​ ​</s><s p="1">​</s></p>
+<p t="880434" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="13">​ ​and clean the entire street to ensure​ ​</s><s p="1">​</s></p>
+<p t="880434" d="1699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="14">​ ​and clean the entire street to ensure​ ​</s><s p="1">​</s></p>
+<p t="882133" d="4067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​that nothing damages this $100 Million car.​ ​</s><s p="1">​</s></p>
+<p t="882133" d="4067" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​that nothing damages this $100 Million car.​ ​</s><s p="1">​</s></p>
+<p t="886400" d="1534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This is going to be crazy.​ ​</s><s p="1">​</s></p>
+<p t="886400" d="1534" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This is going to be crazy.​ ​</s><s p="1">​</s></p>
+<p t="887934" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​And now we&#39;re on the bridge.​ ​</s><s p="1">​</s></p>
+<p t="887934" d="2300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​And now we&#39;re on the bridge.​ ​</s><s p="1">​</s></p>
+<p t="890868" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, my God.​ ​</s><s p="1">​</s></p>
+<p t="890868" d="1566" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, my God.​ ​</s><s p="1">​</s></p>
+<p t="892434" d="699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="29">​ ​Look at that.​ ​</s><s p="1">​</s></p>
+<p t="892434" d="699" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="30">​ ​Look at that.​ ​</s><s p="1">​</s></p>
+<p t="893133" d="2835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="7">​ ​$100 million ​ ​</s><s p="1">​
+​</s><s p="7">​ ​barreling down the street.​ ​</s><s p="1">​</s></p>
+<p t="893133" d="2835" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="8">​ ​$100 million ​ ​</s><s p="1">​
+​</s><s p="8">​ ​barreling down the street.​ ​</s><s p="1">​</s></p>
+<p t="898234" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, I keep ​ ​</s><s p="1">​
+​</s><s p="3">​ ​losing my hat.​ ​</s><s p="1">​</s></p>
+<p t="898234" d="1966" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, I keep ​ ​</s><s p="1">​
+​</s><s p="4">​ ​losing my hat.​ ​</s><s p="1">​</s></p>
+<p t="900267" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​He lost his hat.​ ​</s><s p="1">​</s></p>
+<p t="900267" d="1400" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​He lost his hat.​ ​</s><s p="1">​</s></p>
+<p t="902534" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​That&#39;s the second time.​ ​</s><s p="1">​</s></p>
+<p t="902534" d="1300" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​That&#39;s the second time.​ ​</s><s p="1">​</s></p>
+<p t="903868" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Most expensive ​ ​</s><s p="1">​
+​</s><s p="3">​ ​car comes with a free hat.​ ​</s><s p="1">​</s></p>
+<p t="903868" d="1766" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Most expensive ​ ​</s><s p="1">​
+​</s><s p="4">​ ​car comes with a free hat.​ ​</s><s p="1">​</s></p>
+<p t="905701" d="666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Come on.​ ​</s><s p="1">​</s></p>
+<p t="905701" d="666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Come on.​ ​</s><s p="1">​</s></p>
+<p t="907133" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Come on!​ ​</s><s p="1">​</s></p>
+<p t="907133" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Come on!​ ​</s><s p="1">​</s></p>
+<p t="908667" d="1567" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​This is awesome.​ ​</s><s p="1">​</s></p>
+<p t="908667" d="1567" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​This is awesome.​ ​</s><s p="1">​</s></p>
+<p t="910234" d="1866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Name one thing more fun than this.​ ​</s><s p="1">​</s></p>
+<p t="910234" d="1866" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Name one thing more fun than this.​ ​</s><s p="1">​</s></p>
+<p t="914334" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="914334" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​All right.​ ​</s><s p="1">​</s></p>
+<p t="915400" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Floor it.​ ​</s><s p="1">​</s></p>
+<p t="915400" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Floor it.​ ​</s><s p="1">​</s></p>
+<p t="917400" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s go.​ ​</s><s p="1">​</s></p>
+<p t="917400" d="1000" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s go.​ ​</s><s p="1">​</s></p>
+<p t="918968" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Oh, my God. It&#39;s awesome.​ ​</s><s p="1">​</s></p>
+<p t="918968" d="1933" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Oh, my God. It&#39;s awesome.​ ​</s><s p="1">​</s></p>
+<p t="923968" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​I hope you guys enjoyed the video​ ​</s><s p="1">​</s></p>
+<p t="923968" d="1666" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​I hope you guys enjoyed the video​ ​</s><s p="1">​</s></p>
+<p t="925634" d="3600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Let&#39;s drop a nuke on the bridge.​ ​</s><s p="1">​</s></p>
+<p t="925634" d="3600" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Let&#39;s drop a nuke on the bridge.​ ​</s><s p="1">​</s></p>
+<p t="931234" d="5133" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="3">​ ​Subscribe to get Nolan’s mom a treadmill. ​ ​</s><s p="1">​
+​</s><s p="3">​ ​Just kidding we love you nolan’s mom​ ​</s><s p="1">​</s></p>
+<p t="931234" d="5133" wp="1" ws="1"><s p="1">​</s><s>​</s><s p="4">​ ​Subscribe to get Nolan’s mom a treadmill. ​ ​</s><s p="1">​
+​</s><s p="4">​ ​Just kidding we love you nolan’s mom​ ​</s><s p="1">​</s></p>
+</body>
+</timedtext>

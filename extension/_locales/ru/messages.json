@@ -1,0 +1,41 @@
+{
+  "extName": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "extShortName": {
+    "message": "Akif YT Addon"
+  },
+  "extDescription": {
+    "message": "Скачивание видео YouTube до 8K/HDR, аудио (MP3, M4A, Opus, FLAC, WAV), субтитров, обложек и скриншотов, а также инструменты плеера."
+  },
+  "actionTitle": {
+    "message": "Akif's Special YouTube Addon"
+  },
+  "cmdScreenshot": {
+    "message": "Сделать скриншот"
+  },
+  "cmdDownload": {
+    "message": "Открыть панель скачивания"
+  },
+  "cmdLoop": {
+    "message": "Включить или выключить повтор"
+  },
+  "cmdCinema": {
+    "message": "Включить или выключить режим кинотеатра"
+  },
+  "cmdPip": {
+    "message": "Включить или выключить режим «Картинка в картинке»"
+  },
+  "cmdComments": {
+    "message": "Показать или скрыть комментарии"
+  },
+  "cmdSpeedUp": {
+    "message": "Ускорить воспроизведение"
+  },
+  "cmdSpeedDown": {
+    "message": "Замедлить воспроизведение"
+  },
+  "cmdSpeedReset": {
+    "message": "Сбросить скорость воспроизведения"
+  }
+}

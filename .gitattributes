@@ -1,0 +1,17 @@
+# Normalize text files to LF inside the repository (checked out native on Windows).
+* text=auto
+
+# Windows batch files must keep CRLF line endings. Store them verbatim (never
+# normalize), so every delivery path — clone, "Download ZIP" and release archive —
+# gives the exact bytes. host.bat is byte-sensitive: its deno line must end at
+# byte 1126 (see the comments inside the file).
+*.bat -text
+
+# PowerShell installer scripts: keep CRLF so they run the same everywhere.
+*.ps1 text eol=crlf
+
+# Binary assets — never apply end-of-line conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary

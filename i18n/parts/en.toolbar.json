@@ -1,0 +1,5 @@
+{
+  "toolbar.a11y.downloads.one": "{count} active download",
+  "toolbar.a11y.downloads.other": "{count} active downloads",
+  "toolbar.a11y.progress": "Progress: {percent}"
+}
